@@ -1,17 +1,9 @@
 [
 	
 		{
-		  "title"      : "Welkom op Webenco",
+		  "title"      : "Welkom op Web en co",
 		  "category"   : "",
-		  "url"        : "http://webenco.github.io/jekyll/update/welkom-op-webenco/",
-		  "date"       : "2014-04-28 06:20:00 -0400",
-		  "shortdate"  : "April 28, 2014"
-		} ,
-	
-		{
-		  "title"      : "Welkom op Webenco",
-		  "category"   : "",
-		  "url"        : "http://webenco.github.io/jekyll/update/welcome-to-jekyll/",
+		  "url"        : "http://webenco.github.io/jekyll/update/welcome-to-web-en-co/",
 		  "date"       : "2014-04-28 06:20:00 -0400",
 		  "shortdate"  : "April 28, 2014"
 		} 
