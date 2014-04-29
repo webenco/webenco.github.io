@@ -1,6 +1,14 @@
 [
 	
 		{
+		  "title"      : "Het schrijven van een wervende tekst",
+		  "category"   : "",
+		  "url"        : "http://webenco.github.io/het-schrijven-van-een-wervende-tekst/",
+		  "date"       : "2014-04-29 00:00:00 -0400",
+		  "shortdate"  : "April 29, 2014"
+		} ,
+	
+		{
 		  "title"      : "Welkom op Web en co",
 		  "category"   : "",
 		  "url"        : "http://webenco.github.io/jekyll/update/welcome-to-web-en-co/",
