@@ -1,11 +1,19 @@
 [
 	
 		{
-		  "title"      : "Welcome to Jekyll!",
+		  "title"      : "Welkom op Webenco",
+		  "category"   : "",
+		  "url"        : "http://webenco.github.io/jekyll/update/welkom-op-webenco/",
+		  "date"       : "2014-04-28 06:20:00 -0400",
+		  "shortdate"  : "April 28, 2014"
+		} ,
+	
+		{
+		  "title"      : "Welkom op Webenco",
 		  "category"   : "",
 		  "url"        : "http://webenco.github.io/jekyll/update/welcome-to-jekyll/",
-		  "date"       : "2014-04-23 14:58:54 -0400",
-		  "shortdate"  : "April 23, 2014"
+		  "date"       : "2014-04-28 06:20:00 -0400",
+		  "shortdate"  : "April 28, 2014"
 		} 
 	
 ]
