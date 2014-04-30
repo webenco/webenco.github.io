@@ -2,7 +2,7 @@
 layout: page
 permalink: /about/
 title: Over Web en co
-tags: [Web en co, over]
+tags: [Web en co, missie, doel]
 modified: 2013-09-13
 image:
   feature: so-simple-sample-image-4.jpg
@@ -10,10 +10,12 @@ image:
   creditlink: http://mademistakes.com
 ---
 
-Hoe schrijf ik goede teksten voor mijn website? Hoe maak ik mijn website gebruikersvriendelijk? Hoe voer ik
-metadata in op mijn website?
+Hoe schrijf ik goede teksten voor mijn website? Wat kan ik doen om
+mijn site vindbaar te maken? Is mijn website of blog
+gebruikersvriendelijk? Wat is het nut van het gebruik van metadata en
+hoe voer ik dit in? 
 
-Dat zijn de onderwerpen waar Web en co antwoord op geeft. Aan de
+Dit is zomaar een greep uit de vele onderwerpen waar Web en co antwoord op geeft. Aan de
 hand van duidelijke uitleg, praktische tips en adviezen kun je direct
 met je eigen blog of website aan de slag!
 
