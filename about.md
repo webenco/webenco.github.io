@@ -18,5 +18,6 @@ Dat zijn de onderwerpen waar Web en co een antwoord op geeft. Aan de
 hand van duidelijke uitleg, praktische tips en adviezen kun je direct
 met je eigen blog of website aan de slag!
 
-<a markdown="0" href="{{ site.url }}/articles" class="btn">Artikelen</a>
+<a markdown="0" href="{{ site.url }}/articles" class="btn">Direct naar
+de artikelen</a>
 
