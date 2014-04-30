@@ -10,7 +10,7 @@ image:
   creditlink: http://mademistakes.com
 ---
 
-Hoe schrijf ik goede teksten voor mijn website? Welke soort teksten
+Hoe schrijf ik goede teksten voor mijn website? Welke tekstsoorten
 zijn er? Hoe maak ik mijn website gebruikersvriendelijk? Hoe voer ik
 metadata in op mijn website?
 
