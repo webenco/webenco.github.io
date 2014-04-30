@@ -10,11 +10,10 @@ image:
   creditlink: http://mademistakes.com
 ---
 
-Hoe schrijf ik goede teksten voor mijn website? Welke tekstsoorten
-zijn er? Hoe maak ik mijn website gebruikersvriendelijk? Hoe voer ik
+Hoe schrijf ik goede teksten voor mijn website? Hoe maak ik mijn website gebruikersvriendelijk? Hoe voer ik
 metadata in op mijn website?
 
-Dat zijn de onderwerpen waar Web en co een antwoord op geeft. Aan de
+Dat zijn de onderwerpen waar Web en co antwoord op geeft. Aan de
 hand van duidelijke uitleg, praktische tips en adviezen kun je direct
 met je eigen blog of website aan de slag!
 
