@@ -10,7 +10,9 @@ image:
 comments: 
 share: 
 ---
-In mijn tuin heb ik een moerasanemoon staan. Helaas overwoekert hij mijn andere planten en dus wil ik hem graag verwijderen. Uiteindelijk besluit ik een bezoek te brengen aan Google en type in ”verwijderen, moerasanemoon”. In 0.23seconden heb ik 1780 hits. 
+In mijn tuin heb ik een moerasanemoon staan. Helaas overwoekert hij
+mijn andere planten en dus wil ik hem graag verwijderen. Ik besluit een bezoek te brengen aan Google en type in ”verwijderen,
+moerasanemoon”. In 0.23seconden heb ik 1780 hits. 
 Ik speur de eerste pagina af, op zoek naar mijn trefwoorden in de kop en de beschrijving die eronder staat, en maak snel een beslissing welke ik ga lezen. Ik neem de eerste hit van tuinadvies.nl. Snel scrol ik over de pagina. Ja, het gaat over mijn plant…algemene informatie…soorten…grijze stukken tekst…dit kan nog ff duren….ah….laat zich even moeilijk verwijderen als zevenblad…heb ik niks aan….wetenswaardigheden. Nee, toch weer naar Google. 
 Ah, nog een hit van dezelfde site! Klikken toont een lange lijst met treffers op mijn zoektermen. Ik speur de koppen af: Vijvers schoon maken? Soorten coniferen? Niet echt wat ik zoek….
 Weer terug naar Google. Ah, de vierde hit is van een forum en begint met “Help!”. Een medeslachtoffer schrijft over hetzelfde probleem. En ja hoor, eindelijk heb ik een mogelijk verwijderingsmiddel gevonden. 
@@ -24,8 +26,8 @@ aandacht heeft gepakt.
 
 ##Waarom scannen we webteksten?
 Ok, zul je zeggen. Leuk, maar waarom scannen webgebruikers dan?
-Volgens Jakob Nielsens artikel
-[Why webusers scan instead of reading](http://www.nngroup.com/articles/why-web-users-scan-instead-reading/),
+Volgens Jakob Nielsens artikel "
+[Why webusers scan instead of reading](http://www.nngroup.com/articles/why-web-users-scan-instead-reading/)",
 zijn er vier mogelijke redenen:
 
 1.	*Lezen van een beeldscherm is vermoeiend*. Hierdoor lees je 25%
