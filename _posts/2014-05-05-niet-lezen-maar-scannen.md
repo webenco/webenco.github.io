@@ -11,8 +11,8 @@ comments:
 share: 
 ---
 In mijn tuin heb ik een moerasanemoon staan. Helaas overwoekert hij
-mijn andere planten en dus wil ik hem graag verwijderen. Ik besluit een bezoek te brengen aan Google en type in ”verwijderen,
-moerasanemoon”.  
+mijn andere planten en dus wil ik hem graag verwijderen. Ik besluit een bezoek te brengen aan Google en type in "verwijderen,
+moerasanemoon".  
 In 0.23seconden heb ik 1780 hits. Ik speur de eerste pagina af, op
 zoek naar mijn trefwoorden in de kop en de beschrijving die eronder
 staat. Snel maak ik een beslissing welke ik ga lezen.  
