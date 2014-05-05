@@ -15,9 +15,8 @@ mijn andere planten en dus wil ik hem graag verwijderen. Ik besluit een bezoek t
 moerasanemoon”.  
 In 0.23seconden heb ik 1780 hits. Ik speur de eerste pagina af, op
 zoek naar mijn trefwoorden in de kop en de beschrijving die eronder
-staat.  
-Snel maak ik een beslissing welke ik ga lezen. Ik neem de
-eerste hit van tuinadvies.nl. Snel scrol ik over de pagina. Ja, het
+staat. Snel maak ik een beslissing welke ik ga lezen.  
+Ik neem de eerste hit van tuinadvies.nl. Snel scrol ik over de pagina. Ja, het
 gaat over mijn plant…algemene informatie…soorten…grijze stukken
 tekst…dit kan nog ff duren….ah….laat zich even moeilijk verwijderen
 als zevenblad…heb ik niks aan….wetenswaardigheden.  
