@@ -51,5 +51,9 @@ zijn er vier mogelijke redenen:
 
 ##Maak je tekst scanbaar: structureer!
 Kortom, wil je je webteksten makkelijk leesbaar maken voor webgebruikers? Structureer dan je teksten en maak ze scanbaar. 
-Maak gebruik van koppen, tussenkoppen, witregels en alinea’s. Ook bullets (opsommingen),  beelden, kernzinnen, signaalwoorden en het aanbieden van gelaagde informatie maken webteksten makkelijk leesbaar!
+Maak gebruik van koppen, tussenkoppen, witregels en alinea’s. Ook
+bullets, beelden, kernzinnen, signaalwoorden en het aanbieden van
+gelaagde informatie maken webteksten makkelijk leesbaar!
+
+
 
