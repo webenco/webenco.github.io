@@ -24,11 +24,11 @@ aandacht heeft gepakt.
 
 ##Waarom scannen we webteksten?
 Ok, zul je zeggen. Leuk, maar waarom scannen webgebruikers dan?
-Volgens Jakob Nielsens artikel [_ Why webuswers scan instead of reading_](http://www.nngroup.com/articles/why-web-users-scan-instead-reading/), zijn er vier mogelijke redenen:
--	*Lezen van een beeldscherm is vermoeiend*. Hierdoor lees je 25% langzamer dan als je een boek of krant leest. 
--	*Het web is gericht op consumeren*. Je wilt actief aan de slag gaan en op links klikken. Dat geeft je het idee dat je productief bezig bent.
--	 *Internet geeft een enorme keus*. Elke pagina moet met honderden of miljoenen andere pagina’s concurreren om jouw aandacht. 
--	*De moderne mens heeft weinig tijd*. Als je het druk hebt, wil je geen enorme lappen tekst lezen. 
+Volgens Jakob Nielsens artikel [Why webuswers scan instead of reading](http://www.nngroup.com/articles/why-web-users-scan-instead-reading/), zijn er vier mogelijke redenen:
+1.	*Lezen van een beeldscherm is vermoeiend*. Hierdoor lees je 25% langzamer dan als je een boek of krant leest. 
+2.	*Het web is gericht op consumeren*. Je wilt actief aan de slag gaan en op links klikken. Dat geeft je het idee dat je productief bezig bent.
+3.	 *Internet geeft een enorme keus*. Elke pagina moet met honderden of miljoenen andere pagina’s concurreren om jouw aandacht. 
+4.	*De moderne mens heeft weinig tijd*. Als je het druk hebt, wil je geen enorme lappen tekst lezen. 
 
 ##Maak je tekst scanbaar: structureer!
 Kortom, wil je je webteksten makkelijk leesbaar maken voor webgebruikers? Structureer dan je teksten en maak ze scanbaar. 
