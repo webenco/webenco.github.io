@@ -13,7 +13,7 @@ share:
 In mijn tuin heb ik een moerasanemoon staan. Helaas overwoekert hij
 mijn andere planten en dus wil ik hem graag verwijderen. Ik besluit een bezoek te brengen aan Google en type in "verwijderen,
 moerasanemoon".  
-In 0.23seconden heb ik 1780 hits. Ik speur de eerste pagina af, op
+In 0.23 seconden heb ik 1780 hits. Ik speur de eerste pagina af, op
 zoek naar mijn trefwoorden in de kop en de beschrijving die eronder
 staat. Snel maak ik een beslissing welke ik ga lezen.  
 Ik neem de eerste hit van tuinadvies.nl. Snel scrol ik over de pagina. Ja, het
@@ -36,7 +36,7 @@ aandacht heeft gepakt.
 ##Waarom scannen we webteksten?
 Ok, zul je zeggen. Leuk, maar waarom scannen webgebruikers dan?
 Het artikel
-"[Why webusers scan instead of reading](http://www.nngroup.com/articles/why-web-users-scan-instead-reading/)"
+"[Why web users scan instead of reading](http://www.nngroup.com/articles/why-web-users-scan-instead-reading/)"
 van Jakob Nielsen geeft vier mogelijke redenen:
 
 1.	*Lezen van een beeldscherm is vermoeiend*. Hierdoor lees je 25%
