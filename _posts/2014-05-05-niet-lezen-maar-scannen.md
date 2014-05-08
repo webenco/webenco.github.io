@@ -10,7 +10,9 @@ image:
 comments: 
 share: 
 ---
-
+<aside>
+<img src="../images/moerasanemoon.jpg" alt="moerasanemoon">
+</aside>
 _In mijn tuin heb ik een moerasanemoon staan. Helaas overwoekert hij
 mijn andere planten en dus wil ik hem graag verwijderen. Ik besluit
 een bezoek te brengen aan Google en type in "verwijderen, moerasanemoon". In 0.23 seconden heb ik 1780 hits. Ik speur de eerste pagina af, op
