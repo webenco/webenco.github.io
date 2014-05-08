@@ -10,8 +10,6 @@ image:
 comments: 
 share: 
 ---
-<aside>
-<img src="../images/moerasanemoon.jpg" alt="moerasanemoon">
 _In mijn tuin heb ik een moerasanemoon staan. Helaas overwoekert hij
 mijn andere planten en dus wil ik hem graag verwijderen. Ik besluit
 een bezoek te brengen aan Google en type in "verwijderen, moerasanemoon". In 0.23 seconden heb ik 1780 hits. Ik speur de eerste pagina af, op
@@ -28,7 +26,7 @@ toont een lange lijst met treffers op mijn zoektermen. Ik speur de
 koppen af: Vijvers schoon maken? Soorten coniferen? Niet echt wat ik zoek..._ 
 
 _Weer terug naar Google. Ah, de vierde hit is van een forum en begint met “Help!”. Een medeslachtoffer schrijft over hetzelfde probleem. En ja hoor, eindelijk heb ik een mogelijk verwijderingsmiddel gevonden._
-</aside>
+
 
 ##Webgebruikers scannen
 Zoals dit praktijkvoorbeeld duidelijk maakt, leest het web niet
