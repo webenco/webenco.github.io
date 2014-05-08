@@ -11,7 +11,7 @@ comments:
 share: 
 ---
 <aside>
-<img src="/images/moerasanemoon.jpg" alt="Moerasanemoon">
+<img src="..User/Documents/checkouts/webenco.github.io/images/moerasanemoon.jpg" alt="Moerasanemoon">
 </aside>
 _In mijn tuin heb ik een moerasanemoon staan. Helaas overwoekert hij
 mijn andere planten en dus wil ik hem graag verwijderen. Ik besluit
