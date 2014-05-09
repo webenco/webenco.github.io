@@ -2,7 +2,7 @@
 layout: post
 title: "Niet lezen, maar scannen"
 modified: 2014-05-05 15:05:00 +0200
-tags: [leesgedrag, webteksten schrijven, scannen, scangedrag, webgebruiker]
+tags: [leesgedrag, structureren, schrijven, scannen, webteksten, scangedrag, webgebruiker]
 image:
   feature: 
   credit: 
@@ -10,22 +10,22 @@ image:
 comments: 
 share: 
 ---
-_In mijn tuin heb ik een moerasanemoon staan. Helaas overwoekert hij
+In mijn tuin heb ik een moerasanemoon staan. Helaas overwoekert hij
 mijn andere planten en dus wil ik hem graag verwijderen. Ik besluit
 een bezoek te brengen aan Google en type in "verwijderen, moerasanemoon". In 0.23 seconden heb ik 1780 hits. Ik speur de eerste pagina af, op
 zoek naar mijn trefwoorden in de talloze koppen en de
-beschrijvingen. Snel beslis ik wat ik ga lezen._
+beschrijvingen. Snel beslis ik wat ik ga lezen.
 
-_Ik neem de eerste hit van tuinadvies.nl. en scrol over de pagina. Ja, het
+Ik neem de eerste hit van tuinadvies.nl. en scrol over de pagina. Ja, het
 gaat over mijn plant…algemene informatie…soorten…grijze stukken
 tekst…dit kan nog ff duren….ah….laat zich even moeilijk verwijderen
-als zevenblad…heb ik niks aan._
+als zevenblad…heb ik niks aan.
 
-_Nee, toch weer naar Google. Ah, nog een hit van dezelfde site! Klikken
+Nee, toch weer naar Google. Ah, nog een hit van dezelfde site! Klikken
 toont een lange lijst met treffers op mijn zoektermen. Ik speur de
-koppen af: Vijvers schoon maken? Soorten coniferen? Niet echt wat ik zoek..._ 
+koppen af: Vijvers schoon maken? Soorten coniferen? Niet echt wat ik zoek...
 
-_Weer terug naar Google. Ah, de vierde hit is van een forum en begint met “Help!”. Een medeslachtoffer schrijft over hetzelfde probleem. En ja hoor, eindelijk heb ik een mogelijk verwijderingsmiddel gevonden._
+Weer terug naar Google. Ah, de vierde hit is van een forum en begint met “Help!”. Een medeslachtoffer schrijft over hetzelfde probleem. En ja hoor, eindelijk heb ik een mogelijk verwijderingsmiddel gevonden.
 
 
 ##Webgebruikers scannen
