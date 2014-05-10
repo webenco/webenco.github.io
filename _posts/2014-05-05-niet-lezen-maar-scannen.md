@@ -8,7 +8,7 @@ image:
   credit: 
   creditlink: 
 comments: 
-share: 
+share:
 ---
 In mijn tuin heb ik een moerasanemoon staan. Helaas overwoekert hij
 mijn andere planten en dus wil ik hem graag verwijderen. Ik besluit

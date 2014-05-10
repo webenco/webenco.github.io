@@ -2,8 +2,7 @@
 layout: post
 title: "Kopjes geven"
 modified: 2014-05-10 10:12:20 +0200
-tags:
-[webteksten schrijven, structureren tekst, scangedrag, lezer, bezoeker, tekstkoppen]
+tags: [webteksten schrijven, structureren tekst, scangedrag, lezer, bezoeker, tekstkoppen]
 image:
   feature: 
   credit: 
@@ -72,8 +71,7 @@ Wat **wel** te **doen**:
 
 
 Credit screenshots:
-Deltares
-Belastingdienst
+Deltares & de Belastingdienst
 
 
 
