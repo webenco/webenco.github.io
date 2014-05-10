@@ -20,5 +20,5 @@ hand van duidelijke uitleg, praktische tips en adviezen kun je direct
 met je eigen blog of website aan de slag!
 
 <a markdown="0" href="{{ site.url }}/articles" class="btn">Naar
-de Artikelen</a>
+de artikelen</a>
 
