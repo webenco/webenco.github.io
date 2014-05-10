@@ -2,8 +2,7 @@
 layout: post
 title: "Niet lezen, maar scannen"
 modified: 2014-05-05 15:05:00 +0200
-tags:
-[leesgedrag, structureren, schrijven, scannen, webteksten, scangedrag, lezer, webgebruiker, bezoeker]
+tags: [leesgedrag, structureren, schrijven, scannen, webteksten, scangedrag, lezer, webgebruiker, bezoeker]
 image:
   feature: 
   credit: 
