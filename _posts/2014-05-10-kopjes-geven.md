@@ -49,11 +49,10 @@ Wat **wel** te **doen**:
 2.	_Schrijf actief_. Passieve koppen bevatten een vorm van de werkwoorden worden, hebben of zijn. Lezers ervaren passieve zinnen als afstandelijker en lastiger leesbaar.  Ook zijn actieve zinnen vaak korter dan passieve zinnen, wat de leesbaarheid ten goede komt. 
 
 	Vergelijk:
+	
 	* "_We werden door de manager rondgeleid_" (passief)
 	* "_De manager leidde ons rond_" (actief)
 
-3.	_Laat tussenkoppen een rode draad vormen_. De bezoeker kan zo in één oogopslag inschatten waar de tekst over gaat. 
-4.	_Zet zoekwoorden in de koppen_. Bezoekers zijn op zoek naar informatie die aansluit op hun behoefte. Door kernwoorden aan het begin van een kop (en de eerste zin van de onderliggende alinea) te zetten, kunnen bezoekers inschatten of de tekst antwoord op hun vraag zou kunnen  hebben. Daarnaast verbeter je hiermee de vindbaarheid van de tekst door Google.
 
 
 
