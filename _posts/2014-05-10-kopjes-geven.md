@@ -22,17 +22,18 @@ Het doel van koppen en tussenkoppen is het structureren van tekst. Ze stellen le
 
 ##Wat zet je in een (tussen)kop?
 Wat je in de kop zet, hangt af van de algehele strekking van de tekst of, in het geval van een tussenkop, de onderliggende alinea. 
-Volgens het <a
-href="http://www.bol.com/nl/p/handboek-webredactie/1001004009905814/>
+Volgens het <a href="http://www.bol.com/nl/p/handboek-webredactie/1001004009905814>
 “Handboek Webredactie” (2010, eerste druk)</a> van Geert Poort en
 Corona de Wert verwoord een goede kop nieuws, een kernboodschap,
 conclusie of een voordeel voor de lezer.
 
 Voorbeelden:
 * _Kop met een voordeel_: Gratis Samsung Galaxy Tab3 bij alle erkende
-BO-opleidingen (www.loi.nl , 9 mei 2014).. 
-* _Kop met nieuws_: Chauffeurs in actie voor nieuwe cao (www.nu.nl , 5 mei 2014)
-* _Kop met kernboodschap/conclusie_: Appel is meest vervuilde fruitsoort (www.nu.nl , 4 mei 2014)
+BO-opleidingen (www.loi.nl , 9 mei 2014)..  
+* _Kop met nieuws_: Chauffeurs in actie voor nieuwe cao (www.nu.nl , 5
+  mei 2014).. 
+* _Kop met kernboodschap/conclusie_: Appel is meest vervuilde
+  fruitsoort (www.nu.nl , 4 mei 2014).. 
 
 ##Do’s and don’ts
 Wat moet je laten bij het schrijven van koppen en wat moet je vooral doen?
