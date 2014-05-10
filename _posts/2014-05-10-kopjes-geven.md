@@ -49,7 +49,6 @@ Wat **wel** te **doen**:
 2.	_Schrijf actief_. Passieve koppen bevatten een vorm van de werkwoorden worden, hebben of zijn. Lezers ervaren passieve zinnen als afstandelijker en lastiger leesbaar.  Ook zijn actieve zinnen vaak korter dan passieve zinnen, wat de leesbaarheid ten goede komt. 
 
 	Vergelijk:
-	
 	* "_We werden door de manager rondgeleid_" (passief)
 	* "_De manager leidde ons rond_" (actief)
 
