@@ -4,7 +4,7 @@
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http://webenco.github.io/feed.xml" />
 <link rel="alternate" type="text/html" href="http://webenco.github.io/" />
-<updated>2014-05-10T08:19:44-04:00</updated>
+<updated>2014-05-10T08:21:06-04:00</updated>
 <id>http://webenco.github.io/</id>
 <author>
   <name>Web en co</name>
@@ -81,10 +81,15 @@ Het schrijven van koppen is niet lastig, als je je houdt aan de volgende punten:
   leesbaarheid ten goede komt.&lt;/p&gt;
 
     &lt;p&gt;Vergelijk:&lt;/p&gt;
-
-    &lt;p&gt;&lt;em&gt;“We werden door de manager rondgeleid”&lt;/em&gt; (passief)&lt;br /&gt;
- &lt;em&gt;“De manager leidde ons rond”&lt;/em&gt; (actief)&lt;/p&gt;
   &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;em&gt;“We werden door de manager rondgeleid”&lt;/em&gt; (passief)  &lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;“De manager leidde ons rond”&lt;/em&gt; (actief)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;ol&gt;
   &lt;li&gt;&lt;em&gt;Laat tussenkoppen een rode draad vormen&lt;/em&gt;. De bezoeker kan zo in één oogopslag inschatten waar de tekst over gaat. &lt;/li&gt;
   &lt;li&gt;&lt;em&gt;Zet zoekwoorden in de koppen&lt;/em&gt;. Bezoekers zijn op zoek naar informatie die aansluit op hun behoefte. Door kernwoorden aan het begin van een kop (en de eerste zin van de onderliggende alinea) te zetten, kunnen bezoekers inschatten of de tekst antwoord op hun vraag zou kunnen  hebben. Daarnaast verbeter je hiermee de vindbaarheid van de tekst door Google.&lt;/li&gt;
 &lt;/ol&gt;
