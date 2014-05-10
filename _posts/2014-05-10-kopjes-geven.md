@@ -71,7 +71,9 @@ Wat **wel** te **doen**:
 4.	_Zet zoekwoorden in de koppen_. Bezoekers zijn op zoek naar informatie die aansluit op hun behoefte. Door kernwoorden aan het begin van een kop (en de eerste zin van de onderliggende alinea) te zetten, kunnen bezoekers inschatten of de tekst antwoord op hun vraag zou kunnen  hebben. Daarnaast verbeter je hiermee de vindbaarheid van de tekst door Google.
 
 
-
+Credit screenshots:
+Deltares
+Belastingdienst
 
 
 
