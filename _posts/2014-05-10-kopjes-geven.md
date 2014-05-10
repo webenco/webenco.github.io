@@ -12,11 +12,12 @@ share:
 ---
 Neem even de tijd en vergelijk onderstaande teksten. Welke tekst leest
 fijner?
-
+<figure>
 <a href="../images/koppen.jpg" ><img src="../thumbnails/koppen_resized.jpg" alt="Voorbeelden van webteksten
 met en zonder tussenkoppen" title="Voorbeelden van webteksten met en
 zonder tussenkoppen"></a>
-
+<figcaption> Credit screenshots: Deltares en de Belastingdienst</figcaption>
+</figure>
 Ik durf te wedden dat je kiest voor de rechter tekst!
 
 ##Het doel van koppen en tussenkoppen
