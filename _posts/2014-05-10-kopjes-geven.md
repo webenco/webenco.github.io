@@ -34,11 +34,11 @@ Corona de Wert verwoord een goede kop nieuws, een kernboodschap,
 conclusie of een voordeel voor de lezer.
 
 Voorbeelden:
-* _Kop met een voordeel_: Gratis Samsung Galaxy Tab3 bij alle erkende
+* Kop met een voordeel: Gratis Samsung Galaxy Tab3 bij alle erkende
   HBO-opleidingen (www.loi.nl, 9 mei 2014)
-* _Kop met nieuws_: Chauffeurs in actie voor nieuwe cao (www.nu.nl, 5
+* Kop met nieuws: Chauffeurs in actie voor nieuwe cao (www.nu.nl, 5
   mei 2014)
-*_Kop met kernboodschap/conclusie_: Appel is meest vervuilde
+* Kop met kernboodschap/conclusie: Appel is meest vervuilde
   fruitsoort (www.nu.nl, 4 mei 2014)
 
 
