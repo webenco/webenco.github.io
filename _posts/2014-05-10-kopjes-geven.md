@@ -33,11 +33,11 @@ conclusie of een voordeel voor de lezer.
 
 Voorbeelden:
 
- _Kop met een voordeel_: Gratis Samsung Galaxy Tab3 bij alle erkende
+-  _Kop met een voordeel_: Gratis Samsung Galaxy Tab3 bij alle erkende
    HBO-opleidingen (www.loi.nl, 9 mei 2014)  
-_Kop met nieuws_: Chauffeurs in actie voor nieuwe
+- _Kop met nieuws_: Chauffeurs in actie voor nieuwe
  CAO (www.nu.nl, 5 mei 2014)  
-_Kop met een kernboodschap/conclusie_: Appel meest vervuilde
+-  _Kop met een kernboodschap/conclusie_: Appel meest vervuilde
  fruitsoort (www.nu.nl, 4 mei 2014)
 
 ##Do’s and don’ts
