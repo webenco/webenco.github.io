@@ -50,9 +50,10 @@ Wat **wel** te **doen**:
       zinnen als afstandelijker en lastiger leesbaar.  Ook zijn actieve zinnen vaak korter dan passieve zinnen, wat de
       leesbaarheid ten goede komt.
 
-	Vergelijk:.. 
-	We werden door de manager rondgeleid (passief).. 
-	De manager leidde ons rond (actief)
+	Vergelijk:
+	
+		We werden door de manager rondgeleid (passief)
+		De manager leidde ons rond (actief)
 
 
 3.	_Laat tussenkoppen een rode draad vormen_. De bezoeker kan zo in één oogopslag inschatten waar de tekst over gaat. 
