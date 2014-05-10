@@ -40,12 +40,12 @@ Voorbeelden:
 	<li><i>Kop met nieuws</i>: Chauffeurs in actie voor nieuwe cao (www.nu.nl, 5 mei 2014)
 	<li><i>Kop met kernboodschap/conclusie</i>: Appel is meest vervuilde fruitsoort (www.nu.nl, 4 mei 2014)
 </ul>
+<br>
 
-
-###Do’s and don’ts
+<h2>Do’s and don’ts</h2>
 Wat moet je laten bij het schrijven van koppen en wat moet je vooral doen?
 Het schrijven van koppen is niet lastig, als je je houdt aan de volgende punten:
-
+<br>
 Wat **niet** te **doen**:
 <ul>
 <li><i>Jargon of moeilijke woorden gebruiken</i>. Niet iedere bezoeker is wellicht bekend met de gebruikte woorden. 
@@ -54,6 +54,7 @@ Wat **niet** te **doen**:
 <li><i>Een kop maken die uit meer dan 1 regel bestaat</i>. Probeer het bij 2 tot 5 woorden te houden. 
 <li><i>Creatieve koppen schrijven</i>. Een kop moet duidelijk maken waar de onderliggende alinea over gaat. Houd de kop daarom zo informatief en eenduidig mogelijk. 
 </ul>
+<br>
 
 Wat **wel** te **doen**:
 1. Schrijf koppen in de tegenwoordige of toekomstige tijd. Hiermee maak je je tekst actueel en aantrekkelijk. 
