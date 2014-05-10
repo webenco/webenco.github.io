@@ -13,7 +13,9 @@ share:
 Neem even de tijd en vergelijk onderstaande teksten. Welke tekst leest
 fijner?
 
-<a href="../thumbnails/koppen_resized.jpg" ><img src="../images/koppen.jpg" alt="Voorbeelden van webteksten met en zonder tussenkoppen"></a>
+<a href="../images/koppen.jpg" ><img src="../thumbnails/koppen_resized.jpg" alt="Voorbeelden van webteksten
+met en zonder tussenkoppen" title="Voorbeelden van webteksten met en
+zonder tussenkoppen"></a>
 
 Ik durf te wedden dat je kiest voor de rechter tekst!
 
