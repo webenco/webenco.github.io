@@ -58,8 +58,8 @@ Wat **wel** te **doen**:
 
 	Vergelijk:
 	
-	_We werden door de manager rondgeleid_ (passief)  
-	_De manager leidde ons rond_ (actief)  
+	_"We werden door de manager rondgeleid"_ (passief)  
+	_"De manager leidde ons rond"_ (actief)  
 
 
 3.	_Laat tussenkoppen een rode draad vormen_. De bezoeker kan zo in één oogopslag inschatten waar de tekst over gaat. 
