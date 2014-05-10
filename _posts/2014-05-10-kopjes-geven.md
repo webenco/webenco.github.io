@@ -41,6 +41,7 @@ Voorbeelden:
 	<li><i>Kop met kernboodschap/conclusie</i>: Appel is meest vervuilde fruitsoort (www.nu.nl, 4 mei 2014)
 </ul>
 
+
 ##Do’s and don’ts
 Wat moet je laten bij het schrijven van koppen en wat moet je vooral doen?
 Het schrijven van koppen is niet lastig, als je je houdt aan de volgende punten:
