@@ -13,7 +13,7 @@ share:
 Neem even de tijd en vergelijk onderstaande teksten. Welke tekst leest
 fijner?
 
-(plaatje)
+< a href="../thumbnails/koppen_resized.jpg"><img src="../images/koppen.jpg"></a>
 
 Ik durf te wedden dat je kiest voor de rechter tekst!
 
