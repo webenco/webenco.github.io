@@ -6,8 +6,8 @@ tags:
 [webteksten schrijven, structureren tekst, scangedrag, lezer, bezoeker, tekstkoppen]
 image:
   feature: 
-  credit: Deltares, Belastingdienst
-  creditlink:
+  credit: Publicwiki Deltares, Belastingdienst
+  creditlink:https://publicwiki.deltares.nl/display/OET/Data, http://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/belastingdienst/prive/woning/uw_hypotheek_of_lening/
 comments: 
 share: 
 ---
