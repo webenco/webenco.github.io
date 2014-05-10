@@ -25,7 +25,10 @@ Nee, toch weer naar Google. Ah, nog een hit van dezelfde site! Klikken
 toont een lange lijst met treffers op mijn zoektermen. Ik speur de
 koppen af: Vijvers schoon maken? Soorten coniferen? Niet echt wat ik zoek...
 
-Weer terug naar Google. Ah, de vierde hit is van een forum en begint met “Help!”. Een medeslachtoffer schrijft over hetzelfde probleem. En ja hoor, eindelijk heb ik een mogelijk verwijderingsmiddel gevonden.
+Weer terug naar Google. Ah, de vierde hit is van een forum en begint
+met “Help!”. Een medeslachtoffer schrijft over hetzelfde probleem. En
+ja hoor, eindelijk heb ik een mogelijk verwijderingsmiddel gevonden.
+
 
 
 ##Webgebruikers scannen
@@ -34,6 +37,7 @@ hetzelfde als een goed boek. Zo lees ik niet alle informatie van A tot
 Z, maar hop of scan ik de ene na de andere link of webpagina af, op
 zoek naar specifieke informatie of tot het moment waarop iets mijn
 aandacht heeft gepakt.
+
 
 ##Waarom scannen we webteksten?
 Ok, zul je zeggen. Leuk, maar waarom scannen webgebruikers dan?
@@ -50,6 +54,7 @@ van Jakob Nielsen geeft vier mogelijke redenen:
        of miljoenen andere pagina’s concurreren om jouw aandacht.  
 4.	*De moderne mens heeft weinig tijd*. Als je het druk hebt, wil je
       geen enorme lappen tekst lezen.  
+
 
 ##Maak je tekst scanbaar: structureer!
 Kortom, wil je je webteksten makkelijk leesbaar maken voor webgebruikers? Structureer dan je teksten en maak ze scanbaar. 
