@@ -31,6 +31,12 @@ Volgens het <a href="http://www.bol.com/nl/p/handboek-webredactie/10010040099058
 Corona de Wert verwoord een goede kop nieuws, een kernboodschap,
 conclusie of een voordeel voor de lezer.
 
+Voorbeelden:
+
+
+
+
+
 ##Do’s and don’ts
 Wat moet je laten bij het schrijven van koppen en wat moet je vooral doen?
 Het schrijven van koppen is niet lastig, als je je houdt aan de volgende punten:
@@ -50,10 +56,10 @@ Wat **wel** te **doen**:
       zinnen als afstandelijker en lastiger leesbaar.  Ook zijn actieve zinnen vaak korter dan passieve zinnen, wat de
       leesbaarheid ten goede komt.
 
-		Vergelijk:
+	Vergelijk:
 	
-		_We werden door de manager rondgeleid_ (passief)  
-		_De manager leidde ons rond_ (actief)  
+	_We werden door de manager rondgeleid_ (passief)  
+	_De manager leidde ons rond_ (actief)  
 
 
 3.	_Laat tussenkoppen een rode draad vormen_. De bezoeker kan zo in één oogopslag inschatten waar de tekst over gaat. 
