@@ -71,9 +71,8 @@ Wat **wel** te **doen**:
 
 
 
-Credit screenshots:  
-Deltares  
-Belastingdienst
+<p><small>Credit screenshots:  
+Deltares & de Belastingdienst</small></p>
 
 
 
