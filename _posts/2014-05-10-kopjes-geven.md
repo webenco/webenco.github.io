@@ -1,9 +1,7 @@
 ---
 layout: post
 title: "Kopjes geven"
-description: "Dit artikel geeft direct bruikbare tips voor het
-schrijven van goede koppen en tussenkoppen. Ook legt het uit waarom
-het gebruik van tussenkoppen in webteksten belangrijk zijn."
+description: "Dit artikel geeft direct bruikbare tips voor het schrijven van goede koppen en tussenkoppen bij het schrijven van webteksten."
 modified: 2014-05-10 10:12:20 +0200
 tags:
 [webteksten schrijven, structureren tekst, tips, goede koppen en tussenkoppen schrijven]
