@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Niet lezen, maar scannen"
+description: "Webbezoekers lezen niet, maar scannen. Waarom doen ze dit? Hoe pas je je webteksten daar op aan?. "
 modified: 2014-05-05 15:05:00 +0200
 tags: [webteksten schrijven, structureren tekst, scangedrag, lezer, bezoeker]
 image:
