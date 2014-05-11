@@ -2,7 +2,7 @@
 layout: post
 title: "Kopjes geven"
 modified: 2014-05-10 10:12:20 +0200
-tags: [webteksten schrijven, structureren tekst, scangedrag, lezer, bezoeker, tekstkoppen]
+tags: [webteksten schrijven, structureren tekst, tips, koppen webtekst]
 image:
   feature: 
   credit: 
