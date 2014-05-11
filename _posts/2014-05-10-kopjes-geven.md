@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Kopjes geven"
+description:"Dit artikel geeft direct bruikbare tips voor het
+schrijven van koppen en tussenkoppen."
 modified: 2014-05-10 10:12:20 +0200
 tags: [webteksten schrijven, structureren tekst, tips, koppen en tussenkoppen]
 image:
