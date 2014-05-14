@@ -22,7 +22,8 @@ zonder tussenkoppen"></a>
 Ik durf te wedden dat je kiest voor de rechter tekst!
 
 ##Het doel van koppen en tussenkoppen
-Het doel van koppen en tussenkoppen is het structureren van tekst. Ze
+Het doel van koppen en tussenkoppen is het structureren van tekst en
+het trekken van aandacht. Ze
 stellen lezers in staat om snel in te schatten waar de onderliggende
 tekst over gaat en of deze aansluit op hun informatiebehoefte. Kortom,
 ze sporen bezoekers aan om het onderliggende bericht wel of niet te
