@@ -14,8 +14,9 @@ share:
 Alinea’s geven structuur aan webteksten en maken ze makkelijk scanbaar voor de lezer. 
 
 Vandaag beantwoord ik drie vragen:  
-1. Wat is de inhoud van een alinea? Wat staat er in?
-2. Aan welke gouden regels houd ik mij bij het schrijven van alinea’s ?
+1. Wat is de inhoud van een alinea? Wat staat er in?  
+2. Aan welke gouden regels houd ik mij bij het schrijven van alinea’s
+   ?  
 3. Hoe kom je tot een goede alinea-indeling?
 
 ##De inhoud van alinea’s
