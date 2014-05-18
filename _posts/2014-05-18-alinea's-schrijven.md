@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Alinea's schrijven: handige tips"
+title: "Alinea's: handige tips"
 description: "Alinea’s geven structuur aan webteksten en maken ze scanbaar. In deze blog lees je tips voor het schrijven van alinea’s."
 modified: 2014-05-18 11:30:23 +0200
 tags: [webteksten schrijven, structureren tekst, tips, alinea's]
