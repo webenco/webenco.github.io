@@ -41,7 +41,7 @@ Hou je bij het schrijven van alinea’s aan deze gouden regels:
 
 - _Behandel 1 idee per alinea_.
 - _Gebruik witregels tussen verschillende alinea's_.
-- _Schrijf maximaal 7-12 regels per alinea_.
+- _Schrijf maximaal 5-7 regels per alinea_.
 - _De eerste zin is de kernzin_. Waarom eerste zin? Deze bevat de
   belangrijkste informatie. Hoe eerder de lezer deze ziet, hoe sneller
   hij of zij de opbouw begrijpt. In de rest van de alinea werk je deze
@@ -51,6 +51,8 @@ Hou je bij het schrijven van alinea’s aan deze gouden regels:
   schrijven zelf.
 - _Schrijf maximaal 10-15 woorden per zin_. Probeer hierbij wel af te
   wisselen in zinslengte. Zo krijgt je tekst snelheid en ritme.
+- _Maak de alinea niet langer dan 50-75 woorden_. Dit leest het
+  prettigst. Korter mag altijd. 
 - _Zorg dat de alinea zelfstandig leesbaar is_. Lezers vinden het niet
   fijn om terug te moeten lezen in je tekst. Vermijd daarom uitspraken als
    "Zoals eerder gezegd..." en dergelijke. Ze zijn lastig te scannen
@@ -62,4 +64,8 @@ Bedenk welke vragen en subvragen je wilt beantwoorden. Werk de
 antwoorden op deze vragen uit. Ieder antwoord vormt een nieuwe
 alinea. Als een antwoord meer dan een alinea bevat, dan kun je deze
 over meerdere alinea’s spreiden. Zorg er wel voor dat de grens van de
-volgende alinea samenhangt met inhoudelijke grenzen (bron: <a href="http://taaladvies.net/taal/advies/vraag/43/alineas_maken/">www.taaluniversum.org</a>).
+volgende alinea samenhangt met inhoudelijke grenzen (bron: <a
+href="http://taaladvies.net/taal/advies/vraag/43/alineas_maken/">www.taaluniversum.org</a>).
+
+
+Heb je vragen of opmerkingen? Laat ze achter in de comments!
