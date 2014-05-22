@@ -21,12 +21,10 @@ Vandaag beantwoord ik drie vragen:
 ##De inhoud van alinea’s
 Het belangrijkste onderdeel van een alinea is de kernzin. Deze geeft het antwoord op de vraag of subvraag die de alinea behandelt. De rest van de alinea bestaat uit zinnen die deze kernzin uitwerken. Zo kan de inhoud van deze zinnen bestaan uit:
 
-- voorbeelden
-- oorzaken
-- gevolgen
-
-of
-
+- voorbeelden  
+- oorzaken  
+- gevolgen  
+of  
 - argumenten
 
 in relatie tot de kernzin.

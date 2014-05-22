@@ -46,7 +46,9 @@ kan lezen. Hier komen ze:
   verloren. Denk aan het leren van rijtjes woorden!
 
 ##Welke informatie zet je in opsommingen?
-In opsommingen kun je verschillende soorten informatie kwijt. In webteksten ga je uit van de wensen en behoeften van de lezer. Kies daarom bij het gebruik van opsommingen dus voor:
+In opsommingen kun je verschillende soorten informatie kwijt. In
+webteksten ga je uit van de wensen en behoeften van de lezer. Kies
+daarom bij het gebruik van opsommingen dus voor:  
 - Voordelen  
 - Oplossingen  
 - Kernpunten  
