@@ -4,7 +4,7 @@
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http://webenco.github.io/feed.xml" />
 <link rel="alternate" type="text/html" href="http://webenco.github.io/" />
-<updated>2014-05-22T12:05:05-04:00</updated>
+<updated>2014-05-22T12:07:48-04:00</updated>
 <id>http://webenco.github.io/</id>
 <author>
   <name>Web en co</name>
@@ -61,7 +61,9 @@ verloren. Denk aan het leren van rijtjes woorden!&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&quot;welke-informatie-zet-je-in-opsommingen&quot;&gt;Welke informatie zet je in opsommingen?&lt;/h2&gt;
-&lt;p&gt;In opsommingen kun je verschillende soorten informatie kwijt. In webteksten ga je uit van de wensen en behoeften van de lezer. Kies daarom bij het gebruik van opsommingen dus voor:
+&lt;p&gt;In opsommingen kun je verschillende soorten informatie kwijt. In
+webteksten ga je uit van de wensen en behoeften van de lezer. Kies
+daarom bij het gebruik van opsommingen dus voor:&lt;br /&gt;
 - Voordelen&lt;br /&gt;
 - Oplossingen&lt;br /&gt;
 - Kernpunten&lt;br /&gt;
@@ -102,14 +104,10 @@ Is de volgorde wel belangrijk? Gebruik dan cijfers. &lt;/p&gt;
 &lt;p&gt;Het belangrijkste onderdeel van een alinea is de kernzin. Deze geeft het antwoord op de vraag of subvraag die de alinea behandelt. De rest van de alinea bestaat uit zinnen die deze kernzin uitwerken. Zo kan de inhoud van deze zinnen bestaan uit:&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;voorbeelden&lt;/li&gt;
-  &lt;li&gt;oorzaken&lt;/li&gt;
-  &lt;li&gt;gevolgen&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;of&lt;/p&gt;
-
-&lt;ul&gt;
+  &lt;li&gt;voorbeelden  &lt;/li&gt;
+  &lt;li&gt;oorzaken  &lt;/li&gt;
+  &lt;li&gt;gevolgen&lt;br /&gt;
+of  &lt;/li&gt;
   &lt;li&gt;argumenten&lt;/li&gt;
 &lt;/ul&gt;
 

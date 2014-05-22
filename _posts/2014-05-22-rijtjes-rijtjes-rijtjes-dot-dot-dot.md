@@ -49,16 +49,15 @@ kan lezen. Hier komen ze:
 In opsommingen kun je verschillende soorten informatie kwijt. In
 webteksten ga je uit van de wensen en behoeften van de lezer. Kies
 daarom bij het gebruik van opsommingen dus voor:  
-- Voordelen  
-- Oplossingen  
-- Kernpunten  
+* Voordelen  
+* Oplossingen  
+* Kernpunten  
 of   
-- Resultaten
+* Resultaten
 
 ##Bullets of cijfers?
 Gebruik bullets als de volgorde van de opsomming niet belangrijk is. 
-Is de volgorde wel belangrijk? Gebruik dan cijfers. 
-
+Is de volgorde wel belangrijk? Gebruik dan cijfers.
 
 
 Reageren? Laat een comment achter!
