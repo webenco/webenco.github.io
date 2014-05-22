@@ -18,7 +18,8 @@ Het leren van eindeloze rijtjes woorden vond ik vroeger verschrikkelijk. Ik kree
 
 Bij het lezen van teksten en het onthouden ervan, had ik juist weer geen moeite met opsommingen. Ik vond ze juist fijn, omdat ik zo sneller kon leren: ze ordenden de tekst.
 
-Ook bij recepten en een boodschappenlijst is het handig om met opsommingen te werken: je blijft anders zoeken waarje gebleven was.
+Ook bij recepten en een boodschappenlijst is het handig om met
+opsommingen te werken: je blijft anders zoeken waar je gebleven was.
 
 Vandaag ga ik het hebben over opsommingen in webteksten.
 
