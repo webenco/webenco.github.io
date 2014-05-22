@@ -11,7 +11,7 @@ image:
 comments: 
 share: 
 ---
-<img src="../images/opsomming2.jpg" alt="Memo met opsomming"
+<img src="../images/opsomming3.jpg" alt="Memo met opsomming"
 title="Memo met opsomming">
 
 Het leren van eindeloze rijtjes woorden vond ik vroeger verschrikkelijk. Ik kreeg ze er maar moeilijk in. 
@@ -40,7 +40,7 @@ kan lezen. Hier komen ze:
   dan kunnen lezers punten gemakkelijk overslaan.  
 - _Houdt elke zin op 1 regel_. Zet je alle punten namelijk achter
   elkaar in een lange zin, dan leest dit een stuk lastiger.  
--_Gebruik niet te veel opsommingen in je tekst_. Lezers ervaren
+- _Gebruik niet te veel opsommingen in je tekst_. Lezers ervaren
   opsommingen als belangrijk, omdat ze een samenvattende functie
   hebben. Gebruik je echter te veel opsommingen, dan gaat dit effect
   verloren. Denk aan het leren van rijtjes woorden!
@@ -49,8 +49,8 @@ kan lezen. Hier komen ze:
 In opsommingen kun je verschillende soorten informatie kwijt. In webteksten ga je uit van de wensen en behoeften van de lezer. Kies daarom bij het gebruik van opsommingen dus voor:
 - Voordelen  
 - Oplossingen  
-- Kernpunten
-of 
+- Kernpunten  
+of   
 - Resultaten
 
 ##Bullets of cijfers?

@@ -4,7 +4,7 @@
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http://webenco.github.io/feed.xml" />
 <link rel="alternate" type="text/html" href="http://webenco.github.io/" />
-<updated>2014-05-22T11:55:25-04:00</updated>
+<updated>2014-05-22T12:00:59-04:00</updated>
 <id>http://webenco.github.io/</id>
 <author>
   <name>Web en co</name>
@@ -25,7 +25,7 @@
     <uri>http://webenco.github.io</uri>
     <email>webenco.github@gmail.com</email>
   </author>
-  <content type="html">&lt;p&gt;&lt;img src=&quot;../images/opsomming.jpg&quot; alt=&quot;Memo met opsomming&quot; title=&quot;Memo met opsomming&quot; /&gt;&amp;lt;/a&amp;gt;&lt;/p&gt;
+  <content type="html">&lt;p&gt;&lt;img src=&quot;../images/opsomming2.jpg&quot; alt=&quot;Memo met opsomming&quot; title=&quot;Memo met opsomming&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Het leren van eindeloze rijtjes woorden vond ik vroeger verschrikkelijk. Ik kreeg ze er maar moeilijk in. &lt;/p&gt;
 
@@ -51,10 +51,10 @@ kan lezen. Hier komen ze:&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;&lt;em&gt;Beperk je tot maximaal 3 tot 5 punten&lt;/em&gt;. Gebruik je meer dan dit,
-dan kunnen lezers punten gemakkelijk overslaan.&lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;•	Houdt elke zin op 1 regel&lt;/em&gt;. Zet je alle punten namelijk achter
-elkaar in een lange zin, dan leest dit een stuk lastiger.
--&lt;em&gt;•	Gebruik niet te veel opsommingen in je tekst&lt;/em&gt;. Lezers ervaren
+dan kunnen lezers punten gemakkelijk overslaan.  &lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Houdt elke zin op 1 regel&lt;/em&gt;. Zet je alle punten namelijk achter
+elkaar in een lange zin, dan leest dit een stuk lastiger.&lt;br /&gt;
+-&lt;em&gt;Gebruik niet te veel opsommingen in je tekst&lt;/em&gt;. Lezers ervaren
 opsommingen als belangrijk, omdat ze een samenvattende functie
 hebben. Gebruik je echter te veel opsommingen, dan gaat dit effect
 verloren. Denk aan het leren van rijtjes woorden!&lt;/li&gt;
@@ -64,8 +64,8 @@ verloren. Denk aan het leren van rijtjes woorden!&lt;/li&gt;
 &lt;p&gt;In opsommingen kun je verschillende soorten informatie kwijt. In webteksten ga je uit van de wensen en behoeften van de lezer. Kies daarom bij het gebruik van opsommingen dus voor:
 - Voordelen&lt;br /&gt;
 - Oplossingen&lt;br /&gt;
-- Kernpunten&lt;br /&gt;
-of&lt;br /&gt;
+- Kernpunten
+of 
 - Resultaten&lt;/p&gt;
 
 &lt;h2 id=&quot;bullets-of-cijfers&quot;&gt;Bullets of cijfers?&lt;/h2&gt;
