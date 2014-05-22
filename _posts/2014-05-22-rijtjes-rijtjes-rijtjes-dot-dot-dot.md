@@ -48,7 +48,8 @@ kan lezen. Hier komen ze:
 ##Welke informatie zet je in opsommingen?
 In opsommingen kun je verschillende soorten informatie kwijt. In
 webteksten ga je uit van de wensen en behoeften van de lezer. Kies
-daarom bij het gebruik van opsommingen dus voor:  
+daarom bij het gebruik van opsommingen dus voor:
+
 - Voordelen  
 - Oplossingen  
 - Kernpunten  
