@@ -4,7 +4,7 @@
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http://webenco.github.io/feed.xml" />
 <link rel="alternate" type="text/html" href="http://webenco.github.io/" />
-<updated>2014-05-22T13:56:56-04:00</updated>
+<updated>2014-05-22T13:58:30-04:00</updated>
 <id>http://webenco.github.io/</id>
 <author>
   <name>Web en co</name>
@@ -63,12 +63,15 @@ verloren. Denk aan het leren van rijtjes woorden!&lt;/li&gt;
 &lt;h2 id=&quot;welke-informatie-zet-je-in-opsommingen&quot;&gt;Welke informatie zet je in opsommingen?&lt;/h2&gt;
 &lt;p&gt;In opsommingen kun je verschillende soorten informatie kwijt. In
 webteksten ga je uit van de wensen en behoeften van de lezer. Kies
-daarom bij het gebruik van opsommingen dus voor:&lt;br /&gt;
-- Voordelen&lt;br /&gt;
-- Oplossingen&lt;br /&gt;
-- Kernpunten&lt;br /&gt;
-of&lt;br /&gt;
-- Resultaten&lt;/p&gt;
+daarom bij het gebruik van opsommingen dus voor:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Voordelen  &lt;/li&gt;
+  &lt;li&gt;Oplossingen  &lt;/li&gt;
+  &lt;li&gt;Kernpunten&lt;br /&gt;
+of  &lt;/li&gt;
+  &lt;li&gt;Resultaten&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;h2 id=&quot;bullets-of-cijfers&quot;&gt;Bullets of cijfers?&lt;/h2&gt;
 &lt;p&gt;Gebruik bullets als de volgorde van de opsomming niet belangrijk is. 
