@@ -11,8 +11,8 @@ image:
 comments: 
 share: 
 ---
-<img src="../images/opsomming.jpg" alt="Memo met opsomming"
-title="Memo met opsomming"></a>
+<img src="../images/opsomming2.jpg" alt="Memo met opsomming"
+title="Memo met opsomming">
 
 Het leren van eindeloze rijtjes woorden vond ik vroeger verschrikkelijk. Ik kreeg ze er maar moeilijk in. 
 
@@ -37,10 +37,10 @@ opsommingen regels, waarmee de scannende lezer een webtekst efficient
 kan lezen. Hier komen ze:
 
 - _Beperk je tot maximaal 3 tot 5 punten_. Gebruik je meer dan dit,
-  dan kunnen lezers punten gemakkelijk overslaan.
-- _•	Houdt elke zin op 1 regel_. Zet je alle punten namelijk achter
-  elkaar in een lange zin, dan leest dit een stuk lastiger.
--_•	Gebruik niet te veel opsommingen in je tekst_. Lezers ervaren
+  dan kunnen lezers punten gemakkelijk overslaan.  
+- _Houdt elke zin op 1 regel_. Zet je alle punten namelijk achter
+  elkaar in een lange zin, dan leest dit een stuk lastiger.  
+-_Gebruik niet te veel opsommingen in je tekst_. Lezers ervaren
   opsommingen als belangrijk, omdat ze een samenvattende functie
   hebben. Gebruik je echter te veel opsommingen, dan gaat dit effect
   verloren. Denk aan het leren van rijtjes woorden!
@@ -49,13 +49,15 @@ kan lezen. Hier komen ze:
 In opsommingen kun je verschillende soorten informatie kwijt. In webteksten ga je uit van de wensen en behoeften van de lezer. Kies daarom bij het gebruik van opsommingen dus voor:
 - Voordelen  
 - Oplossingen  
-- Kernpunten  
-of  
+- Kernpunten
+of 
 - Resultaten
 
 ##Bullets of cijfers?
 Gebruik bullets als de volgorde van de opsomming niet belangrijk is. 
 Is de volgorde wel belangrijk? Gebruik dan cijfers. 
+
+
 
 Reageren? Laat een comment achter!
   
