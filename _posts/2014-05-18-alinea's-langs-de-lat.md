@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Alinea's langs de lat"
-description: "Alinea’s geven structuur aan webteksten en maken ze scanbaar. In deze blog lees je tips voor het schrijven van alinea’s."
+description: "Alinea’s geven structuur aan webteksten en maken ze scanbaar. In deze blogpost lees je tips voor het schrijven van alinea’s."
 modified: 2014-05-18 11:30:23 +0200
 tags: [webteksten schrijven, structureren tekst, tips, alinea's]
 image:
