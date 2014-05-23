@@ -12,7 +12,7 @@ comments:
 share: 
 ---
 
-<img src="../images/opsomming.jpg" alt="Memo met opsomming"
+<img src="../images/opsomming.png" alt="Memo met opsomming"
 title="Memo met opsomming">
 
 
