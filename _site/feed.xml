@@ -4,7 +4,7 @@
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http://webenco.github.io/feed.xml" />
 <link rel="alternate" type="text/html" href="http://webenco.github.io/" />
-<updated>2014-05-23T05:15:50-04:00</updated>
+<updated>2014-05-23T05:20:21-04:00</updated>
 <id>http://webenco.github.io/</id>
 <author>
   <name>Web en co</name>
@@ -25,11 +25,12 @@
     <uri>http://webenco.github.io</uri>
     <email>webenco.github@gmail.com</email>
   </author>
-  <content type="html">&lt;p&gt;&lt;img src=&quot;../images/lijstje.jpg&quot; alt=&quot;Memo met opsomming&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Het leren van eindeloze rijtjes woorden vond ik vroeger verschrikkelijk. Ik kreeg ze er maar moeilijk in. &lt;/p&gt;
-
-&lt;p&gt;Bij het lezen van teksten en het onthouden ervan, had ik juist weer geen moeite met opsommingen. Ik vond ze juist fijn, omdat ik zo sneller kon leren: ze ordenden de tekst.&lt;/p&gt;
+  <content type="html">&lt;p&gt;Het leren van eindeloze rijtjes woorden vond ik vroeger
+verschrikkelijk. Ik kreeg ze er maar moeilijk in.
+&amp;lt;div class=&quot;right&quot;&amp;gt;
+&lt;img src=&quot;../images/lijstje.jpg&quot; alt=&quot;Memo met opsomming&quot; /&gt;
+&amp;lt;/div&amp;gt;
+Bij het lezen van teksten en het onthouden ervan, had ik juist weer geen moeite met opsommingen. Ik vond ze juist fijn, omdat ik zo sneller kon leren: ze ordenden de tekst.&lt;/p&gt;
 
 &lt;p&gt;Ook bij recepten en een boodschappenlijst is het handig om met
 opsommingen te werken: je blijft anders zoeken waar je gebleven was.&lt;/p&gt;
