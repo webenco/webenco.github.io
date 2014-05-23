@@ -11,10 +11,9 @@ image:
 comments: 
 share: 
 ---
-<div class="right">
+
 <img src="../images/opsomming3.jpg" alt="Memo met opsomming"
 title="Memo met opsomming">
-</div>
 
 Het leren van eindeloze rijtjes woorden vond ik vroeger verschrikkelijk. Ik kreeg ze er maar moeilijk in. 
 
