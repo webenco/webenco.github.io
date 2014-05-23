@@ -61,6 +61,6 @@ of
 Gebruik bullets als de volgorde van de opsomming niet belangrijk is. 
 Is de volgorde wel belangrijk? Gebruik dan cijfers.
 
-
+<br>
 Reageren? Laat een comment achter!
   
