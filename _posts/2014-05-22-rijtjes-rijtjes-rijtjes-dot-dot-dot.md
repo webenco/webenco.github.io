@@ -12,6 +12,8 @@ comments:
 share: 
 ---
 
+<img src="../images/lijstje.jpg" alt="Memo met opsomming">
+
 Het leren van eindeloze rijtjes woorden vond ik vroeger verschrikkelijk. Ik kreeg ze er maar moeilijk in. 
 
 Bij het lezen van teksten en het onthouden ervan, had ik juist weer geen moeite met opsommingen. Ik vond ze juist fijn, omdat ik zo sneller kon leren: ze ordenden de tekst.
