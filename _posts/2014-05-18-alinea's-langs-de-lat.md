@@ -66,5 +66,5 @@ volgende alinea samenhangt met inhoudelijke grenzen (bron: <a
 href="http://taaladvies.net/taal/advies/vraag/43/alineas_maken/">www.taaluniversum.org</a>).
 
 
-
+<br><br>
 Heb je vragen of opmerkingen? Laat ze achter in de comments!
