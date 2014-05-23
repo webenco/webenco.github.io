@@ -43,8 +43,7 @@ kan lezen. Hier komen ze:
 - _Houdt elke zin op 1 regel_. Zet je alle punten namelijk achter
   elkaar in een lange zin, dan leest dit een stuk lastiger.  
 - _Gebruik niet te veel opsommingen in je tekst_. Lezers ervaren
-  opsommingen als belangrijk, omdat ze een samenvattende functie
-  hebben. Gebruik je echter te veel opsommingen, dan gaat dit effect
+  opsommingen als belangrijk. Gebruik je echter te veel opsommingen, dan gaat dit effect
   verloren. Denk aan het leren van rijtjes woorden!
 
 ##Welke informatie zet je in opsommingen?
