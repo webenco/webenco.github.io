@@ -2,32 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
 <title type="text">Web en co</title>
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
-<link rel="self" type="application/atom+xml" href="http://webenco.github.io/feed.xml" />
-<link rel="alternate" type="text/html" href="http://webenco.github.io/" />
-<updated>2014-05-23T05:22:07-04:00</updated>
-<id>http://webenco.github.io/</id>
+<link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml" />
+<link rel="alternate" type="text/html" href="http://localhost:4000/" />
+<updated>2014-05-24T04:00:44-04:00</updated>
+<id>http://localhost:4000/</id>
 <author>
   <name>Web en co</name>
-  <uri>http://webenco.github.io/</uri>
+  <uri>http://localhost:4000/</uri>
   <email>webenco.github@gmail.com</email>
 </author>
 
 
 <entry>
   <title type="html"><![CDATA[Rijtjes, rijtjes, rijtjes, ...]]></title>
-  <link rel="alternate" type="text/html" href="http://webenco.github.io/rijtjes-rijtjes-rijtjes-dot-dot-dot/"/>
-  <id>http://webenco.github.io/rijtjes-rijtjes-rijtjes-dot-dot-dot</id>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/rijtjes-rijtjes-rijtjes-dot-dot-dot/"/>
+  <id>http://localhost:4000/rijtjes-rijtjes-rijtjes-dot-dot-dot</id>
   <updated>2014-05-22 11:45:43 -0400T00:00:00-00:00</updated>
   <published>2014-05-22T00:00:00-04:00</published>
   
   <author>
     <name>Web en co</name>
-    <uri>http://webenco.github.io</uri>
+    <uri>http://localhost:4000</uri>
     <email>webenco.github@gmail.com</email>
   </author>
-  <content type="html">&lt;p&gt;&lt;img src=&quot;../images/lijstje.jpg&quot; alt=&quot;Memo met opsomming&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Het leren van eindeloze rijtjes woorden vond ik vroeger
+  <content type="html">&lt;p&gt;&lt;img src=&quot;../images/lijstje.jpg&quot; alt=&quot;Memo met opsomming&quot; class=&quot;floatright&quot; /&gt;
+Het leren van eindeloze rijtjes woorden vond ik vroeger
 verschrikkelijk. Ik kreeg ze er maar moeilijk in.&lt;/p&gt;
 
 &lt;p&gt;Bij het lezen van teksten en het onthouden ervan, had ik juist weer geen moeite met opsommingen. Ik vond ze juist fijn, omdat ik zo sneller kon leren: ze ordenden de tekst.&lt;/p&gt;
@@ -82,20 +81,20 @@ Is de volgorde wel belangrijk? Gebruik dan cijfers.&lt;/p&gt;
 Reageren? Laat een comment achter!&lt;/p&gt;
 
 
-  &lt;p&gt;&lt;a href=&quot;http://webenco.github.io/rijtjes-rijtjes-rijtjes-dot-dot-dot/&quot;&gt;Rijtjes, rijtjes, rijtjes, ...&lt;/a&gt; was originally published by Web en co at &lt;a href=&quot;http://webenco.github.io&quot;&gt;Web en co&lt;/a&gt; on May 22, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/rijtjes-rijtjes-rijtjes-dot-dot-dot/&quot;&gt;Rijtjes, rijtjes, rijtjes, ...&lt;/a&gt; was originally published by Web en co at &lt;a href=&quot;http://localhost:4000&quot;&gt;Web en co&lt;/a&gt; on May 22, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Alinea's langs de lat]]></title>
-  <link rel="alternate" type="text/html" href="http://webenco.github.io/alinea%27s-langs-de-lat/"/>
-  <id>http://webenco.github.io/alinea's-langs-de-lat</id>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/alinea%27s-langs-de-lat/"/>
+  <id>http://localhost:4000/alinea's-langs-de-lat</id>
   <updated>2014-05-18 05:30:23 -0400T00:00:00-00:00</updated>
   <published>2014-05-18T00:00:00-04:00</published>
   
   <author>
     <name>Web en co</name>
-    <uri>http://webenco.github.io</uri>
+    <uri>http://localhost:4000</uri>
     <email>webenco.github@gmail.com</email>
   </author>
   <content type="html">&lt;p&gt;Alinea’s geven structuur aan webteksten en maken ze makkelijk scanbaar voor de lezer. &lt;/p&gt;
@@ -157,20 +156,20 @@ volgende alinea samenhangt met inhoudelijke grenzen (bron: &lt;a href=&quot;http
 &lt;p&gt;&lt;br /&gt;&lt;br /&gt;
 Heb je vragen of opmerkingen? Laat ze achter in de comments!&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://webenco.github.io/alinea%27s-langs-de-lat/&quot;&gt;Alinea's langs de lat&lt;/a&gt; was originally published by Web en co at &lt;a href=&quot;http://webenco.github.io&quot;&gt;Web en co&lt;/a&gt; on May 18, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/alinea%27s-langs-de-lat/&quot;&gt;Alinea's langs de lat&lt;/a&gt; was originally published by Web en co at &lt;a href=&quot;http://localhost:4000&quot;&gt;Web en co&lt;/a&gt; on May 18, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Kopjes geven]]></title>
-  <link rel="alternate" type="text/html" href="http://webenco.github.io/kopjes-geven/"/>
-  <id>http://webenco.github.io/kopjes-geven</id>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/kopjes-geven/"/>
+  <id>http://localhost:4000/kopjes-geven</id>
   <updated>2014-05-10 04:12:20 -0400T00:00:00-00:00</updated>
   <published>2014-05-10T00:00:00-04:00</published>
   
   <author>
     <name>Web en co</name>
-    <uri>http://webenco.github.io</uri>
+    <uri>http://localhost:4000</uri>
     <email>webenco.github@gmail.com</email>
   </author>
   <content type="html">&lt;p&gt;Neem even de tijd en vergelijk onderstaande teksten. Welke tekst leest
@@ -244,20 +243,20 @@ Het schrijven van koppen is niet lastig, als je je houdt aan de volgende punten:
 &lt;p&gt;&lt;br /&gt;&lt;br /&gt;
 Laat weten wat je vindt en laat een reactie achter in de comments!&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://webenco.github.io/kopjes-geven/&quot;&gt;Kopjes geven&lt;/a&gt; was originally published by Web en co at &lt;a href=&quot;http://webenco.github.io&quot;&gt;Web en co&lt;/a&gt; on May 10, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/kopjes-geven/&quot;&gt;Kopjes geven&lt;/a&gt; was originally published by Web en co at &lt;a href=&quot;http://localhost:4000&quot;&gt;Web en co&lt;/a&gt; on May 10, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Niet lezen, maar scannen]]></title>
-  <link rel="alternate" type="text/html" href="http://webenco.github.io/niet-lezen-maar-scannen/"/>
-  <id>http://webenco.github.io/niet-lezen-maar-scannen</id>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/niet-lezen-maar-scannen/"/>
+  <id>http://localhost:4000/niet-lezen-maar-scannen</id>
   <updated>2014-05-05 09:05:00 -0400T00:00:00-00:00</updated>
   <published>2014-05-05T00:00:00-04:00</published>
   
   <author>
     <name>Web en co</name>
-    <uri>http://webenco.github.io</uri>
+    <uri>http://localhost:4000</uri>
     <email>webenco.github@gmail.com</email>
   </author>
   <content type="html">&lt;p&gt;In mijn tuin heb ik een moerasanemoon staan. Helaas overwoekert hij
@@ -311,7 +310,7 @@ opsommingen, plaatjes, kernzinnen, signaalwoorden en het aanbieden van
 gelaagde informatie maken webteksten makkelijk leesbaar!&lt;/p&gt;
 
 
-  &lt;p&gt;&lt;a href=&quot;http://webenco.github.io/niet-lezen-maar-scannen/&quot;&gt;Niet lezen, maar scannen&lt;/a&gt; was originally published by Web en co at &lt;a href=&quot;http://webenco.github.io&quot;&gt;Web en co&lt;/a&gt; on May 05, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/niet-lezen-maar-scannen/&quot;&gt;Niet lezen, maar scannen&lt;/a&gt; was originally published by Web en co at &lt;a href=&quot;http://localhost:4000&quot;&gt;Web en co&lt;/a&gt; on May 05, 2014.&lt;/p&gt;</content>
 </entry>
 
 </feed>

@@ -11,7 +11,7 @@ image:
 comments: 
 share: 
 ---
-<img src="../images/lijstje.jpg" alt="Memo met opsomming">
+<img src="../images/lijstje.jpg" alt="Memo met opsomming" class="floatright">
 Het leren van eindeloze rijtjes woorden vond ik vroeger
 verschrikkelijk. Ik kreeg ze er maar moeilijk in.
 
