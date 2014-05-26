@@ -46,14 +46,14 @@ Het artikel
 <a href="http://www.nngroup.com/articles/why-web-users-scan-instead-reading/">"Why web users scan instead of reading"</a>
 van Jakob Nielsen geeft vier mogelijke redenen:
 
-1.	*Lezen van een beeldscherm is vermoeiend*. Hierdoor lees je 25%
+1.	**Lezen van een beeldscherm is vermoeiend**. Hierdoor lees je 25%
       langzamer dan als je een boek of krant leest.  
-2.	*Het web is gericht op consumeren*. Je wilt actief aan de slag
+2.	**Het web is gericht op consumeren**. Je wilt actief aan de slag
       gaan en op links klikken. Dat geeft je het idee dat je
       productief bezig bent.  
-3.	 *Internet geeft een enorme keus*. Elke pagina moet met honderden
+3.	 **Internet geeft een enorme keus**. Elke pagina moet met honderden
        of miljoenen andere pagina’s concurreren om jouw aandacht.  
-4.	*De moderne mens heeft weinig tijd*. Als je het druk hebt, wil je
+4.	**De moderne mens heeft weinig tijd**. Als je het druk hebt, wil je
       geen enorme lappen tekst lezen.  
 
 
