@@ -41,7 +41,7 @@ kan lezen. Hier komen ze:
   dan kunnen lezers punten gemakkelijk overslaan.  
 - **Houdt elke zin op 1 regel**. Zet je alle punten namelijk achter
   elkaar in een lange zin, dan leest dit een stuk lastiger.  
--**Gebruik niet te veel opsommingen in je tekst**. Lezers ervaren
+- **Gebruik niet te veel opsommingen in je tekst**. Lezers ervaren
   opsommingen als belangrijk. Gebruik je echter te veel opsommingen, dan gaat dit effect
   verloren. Denk aan het leren van rijtjes woorden!
 
