@@ -4,7 +4,7 @@
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http://webenco.github.io/feed.xml" />
 <link rel="alternate" type="text/html" href="http://webenco.github.io/" />
-<updated>2014-05-25T05:55:04-04:00</updated>
+<updated>2014-05-26T06:54:42-04:00</updated>
 <id>http://webenco.github.io/</id>
 <author>
   <name>Web en co</name>
@@ -200,11 +200,11 @@ conclusie of een voordeel voor de lezer.&lt;/p&gt;
 &lt;p&gt;Voorbeelden:&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;&lt;em&gt;Kop met een voordeel&lt;/em&gt;: Gratis Samsung Galaxy Tab3 bij alle erkende
-HBO-opleidingen (www.loi.nl, 9 mei 2014)  &lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;Kop met nieuws&lt;/em&gt;: Chauffeurs in actie voor nieuwe
- CAO (www.nu.nl, 5 mei 2014)  &lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;Kop met een kernboodschap/conclusie&lt;/em&gt;: Appel meest vervuilde
+  &lt;li&gt;&lt;strong&gt;Kop met een voordeel&lt;/strong&gt;: “Gratis Samsung Galaxy Tab3 bij alle erkende
+HBO-opleidingen” (www.loi.nl, 9 mei 2014)  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Kop met nieuws&lt;/strong&gt;: “Chauffeurs in actie voor nieuwe
+ CAO” (www.nu.nl, 5 mei 2014)  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Kop met een kernboodschap/conclusie&lt;/strong&gt;: “Appel meest vervuilde
  fruitsoort (www.nu.nl, 4 mei 2014)&lt;/li&gt;
 &lt;/ul&gt;
 
@@ -215,19 +215,19 @@ Het schrijven van koppen is niet lastig, als je je houdt aan de volgende punten:
 &lt;p&gt;Wat &lt;strong&gt;niet&lt;/strong&gt; te &lt;strong&gt;doen&lt;/strong&gt;:&lt;/p&gt;
 
 &lt;ol&gt;
-  &lt;li&gt;&lt;em&gt;Jargon of moeilijke woorden gebruiken&lt;/em&gt;. Niet iedere bezoeker is wellicht bekend met de gebruikte woorden. &lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;Leestekens gebruiken&lt;/em&gt;. Uitzondering hierop zijn het vraagteken of dubbele punten met aanhalingstekens (citaat).&lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;Vaak uitroeptekens gebruiken&lt;/em&gt;. Uitroeptekens komen schreeuwerig over. &lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;Een kop maken die uit meer dan 1 regel bestaat&lt;/em&gt;. Probeer het bij 2 tot 5 woorden te houden. &lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;Creatieve koppen schrijven&lt;/em&gt;. Een kop moet duidelijk maken waar de onderliggende alinea over gaat. Houd de kop daarom zo informatief en eenduidig mogelijk. &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Jargon of moeilijke woorden gebruiken&lt;/strong&gt;. Niet iedere bezoeker is wellicht bekend met de gebruikte woorden. 
+2.&lt;strong&gt;Leestekens gebruiken&lt;/strong&gt;. Uitzondering hierop zijn het vraagteken of dubbele punten met aanhalingstekens (citaat).&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Vaak uitroeptekens gebruiken&lt;/strong&gt;. Uitroeptekens komen schreeuwerig over. &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Een kop maken die uit meer dan 1 regel bestaat&lt;/strong&gt;. Probeer het bij 2 tot 5 woorden te houden. &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Creatieve koppen schrijven&lt;/strong&gt;. Een kop moet duidelijk maken waar de onderliggende alinea over gaat. Houd de kop daarom zo informatief en eenduidig mogelijk. &lt;/li&gt;
 &lt;/ol&gt;
 
 &lt;p&gt;Wat &lt;strong&gt;wel&lt;/strong&gt; te &lt;strong&gt;doen&lt;/strong&gt;:&lt;/p&gt;
 
 &lt;ol&gt;
-  &lt;li&gt;&lt;em&gt;Schrijf koppen in de tegenwoordige of toekomstige tijd&lt;/em&gt;. Hiermee maak je je tekst actueel en aantrekkelijk. &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Schrijf koppen in de tegenwoordige of toekomstige tijd&lt;/strong&gt;. Hiermee maak je je tekst actueel en aantrekkelijk. &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;&lt;em&gt;Schrijf actief&lt;/em&gt;. Passieve koppen bevatten een vorm van de werkwoorden worden, hebben of zijn. Lezers ervaren passieve
+    &lt;p&gt;&lt;strong&gt;Schrijf actief&lt;/strong&gt;. Passieve koppen bevatten een vorm van de werkwoorden worden, hebben of zijn. Lezers ervaren passieve
   zinnen als afstandelijker en lastiger leesbaar.  Ook zijn actieve zinnen vaak korter dan passieve zinnen, wat de
   leesbaarheid ten goede komt.&lt;/p&gt;
 
@@ -236,8 +236,8 @@ Het schrijven van koppen is niet lastig, als je je houdt aan de volgende punten:
     &lt;p&gt;&lt;em&gt;“We worden door de manager rondgeleid”&lt;/em&gt; (passief)&lt;br /&gt;
  &lt;em&gt;“De manager leidt ons rond”&lt;/em&gt; (actief)&lt;/p&gt;
   &lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;Laat tussenkoppen een rode draad vormen&lt;/em&gt;. De bezoeker kan zo in één oogopslag inschatten waar de tekst over gaat. &lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;Zet zoekwoorden in de koppen&lt;/em&gt;. Bezoekers zijn op zoek naar informatie die aansluit op hun behoefte. Door kernwoorden aan het begin van een kop (en de eerste zin van de onderliggende alinea) te zetten, kunnen bezoekers inschatten of de tekst antwoord op hun vraag zou kunnen  hebben. Daarnaast verbeter je hiermee de vindbaarheid van de tekst door zoekmachines.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Laat tussenkoppen een rode draad vormen&lt;/strong&gt;. De bezoeker kan zo in één oogopslag inschatten waar de tekst over gaat. &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Zet zoekwoorden in de koppen&lt;/strong&gt;. Bezoekers zijn op zoek naar informatie die aansluit op hun behoefte. Door kernwoorden aan het begin van een kop (en de eerste zin van de onderliggende alinea) te zetten, kunnen bezoekers inschatten of de tekst antwoord op hun vraag zou kunnen  hebben. Daarnaast verbeter je hiermee de vindbaarheid van de tekst door zoekmachines.&lt;/li&gt;
 &lt;/ol&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;br /&gt;

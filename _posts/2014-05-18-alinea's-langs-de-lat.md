@@ -37,21 +37,21 @@ _"Sporten is gezond (kernzin). Beweging helpt het voorkomen van hart- en vaatzie
 ##De gouden regels van alinea’s
 Hou je bij het schrijven van alinea’s aan deze gouden regels:
 
-- _Behandel 1 idee per alinea_.
-- _Gebruik witregels tussen verschillende alinea's_.
-- _Schrijf maximaal 5-7 regels per alinea_.
-- _De eerste zin is de kernzin_. Waarom eerste zin? Deze bevat de
+- **Behandel 1 idee per alinea**.
+- **Gebruik witregels tussen verschillende alinea's**.
+- **Schrijf maximaal 5-7 regels per alinea**.
+- **De eerste zin is de kernzin**. Waarom eerste zin? Deze bevat de
   belangrijkste informatie. Hoe eerder de lezer deze ziet, hoe sneller
   hij of zij de opbouw begrijpt. In de rest van de alinea werk je deze
   uit. Een andere reden is dat in web teksten het belangrijkste als
   eerste wordt aangeven. Denk aan een nieuwsbericht. Dit doe je dan
   ook in de alinea. Meer hierover komt als ik het ga hebben over het
   schrijven zelf.
-- _Schrijf maximaal 10-15 woorden per zin_. Probeer hierbij wel af te
+- **Schrijf maximaal 10-15 woorden per zin**. Probeer hierbij wel af te
   wisselen in zinslengte. Zo krijgt je tekst snelheid en ritme.
-- _Maak de alinea niet langer dan 50-75 woorden_. Dit leest het
+- **Maak de alinea niet langer dan 50-75 woorden**. Dit leest het
   prettigst. Korter mag altijd. 
-- _Zorg dat de alinea zelfstandig leesbaar is_. Lezers vinden het niet
+- **Zorg dat de alinea zelfstandig leesbaar is**. Lezers vinden het niet
   fijn om terug te moeten lezen in je tekst. Vermijd daarom uitspraken als
    "Zoals eerder gezegd..." en dergelijke. Ze zijn lastig te scannen
   voor een lezer. Ook is het niet vanzelfsprekend dat iemand alle
