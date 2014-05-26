@@ -4,7 +4,7 @@
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http://webenco.github.io/feed.xml" />
 <link rel="alternate" type="text/html" href="http://webenco.github.io/" />
-<updated>2014-05-26T06:54:42-04:00</updated>
+<updated>2014-05-26T06:58:03-04:00</updated>
 <id>http://webenco.github.io/</id>
 <author>
   <name>Web en co</name>
@@ -51,11 +51,11 @@ opsommingen regels, waarmee de scannende lezer een webtekst efficient
 kan lezen. Hier komen ze:&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;&lt;em&gt;Beperk je tot maximaal 3 tot 5 punten&lt;/em&gt;. Gebruik je meer dan dit,
+  &lt;li&gt;&lt;strong&gt;Beperk je tot maximaal 3 tot 5 punten&lt;/strong&gt;. Gebruik je meer dan dit,
 dan kunnen lezers punten gemakkelijk overslaan.  &lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;Houdt elke zin op 1 regel&lt;/em&gt;. Zet je alle punten namelijk achter
-elkaar in een lange zin, dan leest dit een stuk lastiger.  &lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;Gebruik niet te veel opsommingen in je tekst&lt;/em&gt;. Lezers ervaren
+  &lt;li&gt;&lt;strong&gt;Houdt elke zin op 1 regel&lt;/strong&gt;. Zet je alle punten namelijk achter
+elkaar in een lange zin, dan leest dit een stuk lastiger.&lt;br /&gt;
+-&lt;strong&gt;Gebruik niet te veel opsommingen in je tekst&lt;/strong&gt;. Lezers ervaren
 opsommingen als belangrijk. Gebruik je echter te veel opsommingen, dan gaat dit effect
 verloren. Denk aan het leren van rijtjes woorden!&lt;/li&gt;
 &lt;/ul&gt;
@@ -125,21 +125,21 @@ of  &lt;/li&gt;
 &lt;p&gt;Hou je bij het schrijven van alinea’s aan deze gouden regels:&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;&lt;em&gt;Behandel 1 idee per alinea&lt;/em&gt;.&lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;Gebruik witregels tussen verschillende alinea’s&lt;/em&gt;.&lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;Schrijf maximaal 5-7 regels per alinea&lt;/em&gt;.&lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;De eerste zin is de kernzin&lt;/em&gt;. Waarom eerste zin? Deze bevat de
+  &lt;li&gt;&lt;strong&gt;Behandel 1 idee per alinea&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Gebruik witregels tussen verschillende alinea’s&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Schrijf maximaal 5-7 regels per alinea&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;De eerste zin is de kernzin&lt;/strong&gt;. Waarom eerste zin? Deze bevat de
 belangrijkste informatie. Hoe eerder de lezer deze ziet, hoe sneller
 hij of zij de opbouw begrijpt. In de rest van de alinea werk je deze
 uit. Een andere reden is dat in web teksten het belangrijkste als
 eerste wordt aangeven. Denk aan een nieuwsbericht. Dit doe je dan
 ook in de alinea. Meer hierover komt als ik het ga hebben over het
 schrijven zelf.&lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;Schrijf maximaal 10-15 woorden per zin&lt;/em&gt;. Probeer hierbij wel af te
+  &lt;li&gt;&lt;strong&gt;Schrijf maximaal 10-15 woorden per zin&lt;/strong&gt;. Probeer hierbij wel af te
 wisselen in zinslengte. Zo krijgt je tekst snelheid en ritme.&lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;Maak de alinea niet langer dan 50-75 woorden&lt;/em&gt;. Dit leest het
+  &lt;li&gt;&lt;strong&gt;Maak de alinea niet langer dan 50-75 woorden&lt;/strong&gt;. Dit leest het
 prettigst. Korter mag altijd. &lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;Zorg dat de alinea zelfstandig leesbaar is&lt;/em&gt;. Lezers vinden het niet
+  &lt;li&gt;&lt;strong&gt;Zorg dat de alinea zelfstandig leesbaar is&lt;/strong&gt;. Lezers vinden het niet
 fijn om terug te moeten lezen in je tekst. Vermijd daarom uitspraken als
  “Zoals eerder gezegd…” en dergelijke. Ze zijn lastig te scannen
 voor een lezer. Ook is het niet vanzelfsprekend dat iemand alle

@@ -37,11 +37,11 @@ Net als koppen en alinea’s gelden bij het gebruik van bullets of
 opsommingen regels, waarmee de scannende lezer een webtekst efficient
 kan lezen. Hier komen ze:
 
-- _Beperk je tot maximaal 3 tot 5 punten_. Gebruik je meer dan dit,
+- **Beperk je tot maximaal 3 tot 5 punten**. Gebruik je meer dan dit,
   dan kunnen lezers punten gemakkelijk overslaan.  
-- _Houdt elke zin op 1 regel_. Zet je alle punten namelijk achter
+- **Houdt elke zin op 1 regel**. Zet je alle punten namelijk achter
   elkaar in een lange zin, dan leest dit een stuk lastiger.  
-- _Gebruik niet te veel opsommingen in je tekst_. Lezers ervaren
+-**Gebruik niet te veel opsommingen in je tekst**. Lezers ervaren
   opsommingen als belangrijk. Gebruik je echter te veel opsommingen, dan gaat dit effect
   verloren. Denk aan het leren van rijtjes woorden!
 
