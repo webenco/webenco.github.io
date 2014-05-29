@@ -62,7 +62,7 @@ leggen en zullen zij jouw tekst sneller begrijpen!
 
 <br><br>
 Laat je reactie achter in de comments!
-
+<br><br>
 
 <small>Bronnen:  
 <a href="www.http://www.taalislol.classy.be/signaalwoorden.htm">www.taalislol.classy.be</a>  
