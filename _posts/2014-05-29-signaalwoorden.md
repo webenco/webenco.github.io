@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Signaalwoorden"
-description: "Signaalwoorden maken een tekst beter scanbaar voor lezers. Hoe? Dat vertel ik in deze blogpost.
+description: "Signaalwoorden maken een tekst beter scanbaar voor lezers. Hoe? Dat vertel ik in deze blogpost."
 modified: 2014-05-29 13:51:18 +0200
 tags: [webteksten schrijven, structureren tekst, signaalwoorden]
 image:
