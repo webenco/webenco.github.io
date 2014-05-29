@@ -17,7 +17,7 @@ Vandaag beantwoord ik drie vragen:
 1. Wat is de inhoud van een alinea? Wat staat er in?  
 2. Wat zijn de  gouden regels bij het schrijven van alinea’s?  
 3. Hoe kom je tot een goede alinea-indeling?
-
+<br>
 ##De inhoud van alinea’s
 Het belangrijkste onderdeel van een alinea is de kernzin. Deze geeft het antwoord op de vraag of subvraag die de alinea behandelt. De rest van de alinea bestaat uit zinnen die deze kernzin uitwerken. Zo kan de inhoud van deze zinnen bestaan uit:
 
@@ -33,7 +33,7 @@ Om een eenvoudig voorbeeld te geven, is hier een kernzin met argumenten:
 
 _"Sporten is gezond (kernzin). Beweging helpt het voorkomen van hart- en vaatziekten (argument 1). Bovendien geeft sporten plezier en brengt het je in contact met andere mensen (argument 2). Ook heeft sport een positief effect op je geestelijke gezondheid  (argument 3)."_
 
-
+<br>
 ##De gouden regels van alinea’s
 Hou je bij het schrijven van alinea’s aan deze gouden regels:
 
@@ -55,8 +55,9 @@ Hou je bij het schrijven van alinea’s aan deze gouden regels:
   fijn om terug te moeten lezen in je tekst. Vermijd daarom uitspraken als
    "Zoals eerder gezegd..." en dergelijke. Ze zijn lastig te scannen
   voor een lezer. Ook is het niet vanzelfsprekend dat iemand alle
-  voorgaande tekst heeft gelezen. 
-
+  voorgaande tekst heeft gelezen.
+  
+<br>
 ##Hoe kom je tot een goede alinea-indeling?
 Bedenk welke vragen en subvragen je wilt beantwoorden. Werk de
 antwoorden op deze vragen uit. Ieder antwoord vormt een nieuwe

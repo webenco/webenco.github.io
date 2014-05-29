@@ -31,7 +31,7 @@ met “Help!”. Een medeslachtoffer schrijft over hetzelfde probleem. En
 ja hoor, eindelijk heb ik een mogelijk verwijderingsmiddel gevonden.
 
 
-
+<br>
 ##Webgebruikers scannen
 Zoals dit praktijkvoorbeeld duidelijk maakt, leest het web niet
 hetzelfde als een goed boek. Zo lees ik niet alle informatie van A tot
@@ -39,7 +39,7 @@ Z, maar hop of scan ik de ene na de andere link of webpagina af, op
 zoek naar specifieke informatie of tot het moment waarop iets mijn
 aandacht heeft gepakt.
 
-
+<br>
 ##Waarom scannen we webteksten?
 Ok, zul je zeggen. Leuk, maar waarom scannen webgebruikers dan?
 Het artikel
@@ -56,7 +56,7 @@ van Jakob Nielsen geeft vier mogelijke redenen:
 4.	**De moderne mens heeft weinig tijd**. Als je het druk hebt, wil je
       geen enorme lappen tekst lezen.  
 
-
+<br>
 ##Maak je tekst scanbaar: structureer!
 Kortom, wil je je webteksten makkelijk leesbaar maken voor webgebruikers? Structureer dan je teksten en maak ze scanbaar. 
 Maak gebruik van koppen, tussenkoppen, witregels en alinea’s. Ook

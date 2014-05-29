@@ -4,7 +4,7 @@
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http://webenco.github.io/feed.xml" />
 <link rel="alternate" type="text/html" href="http://webenco.github.io/" />
-<updated>2014-05-26T06:59:42-04:00</updated>
+<updated>2014-05-26T07:11:48-04:00</updated>
 <id>http://webenco.github.io/</id>
 <author>
   <name>Web en co</name>
@@ -292,14 +292,14 @@ Het artikel
 van Jakob Nielsen geeft vier mogelijke redenen:&lt;/p&gt;
 
 &lt;ol&gt;
-  &lt;li&gt;&lt;em&gt;Lezen van een beeldscherm is vermoeiend&lt;/em&gt;. Hierdoor lees je 25%
+  &lt;li&gt;&lt;strong&gt;Lezen van een beeldscherm is vermoeiend&lt;/strong&gt;. Hierdoor lees je 25%
   langzamer dan als je een boek of krant leest.  &lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;Het web is gericht op consumeren&lt;/em&gt;. Je wilt actief aan de slag
+  &lt;li&gt;&lt;strong&gt;Het web is gericht op consumeren&lt;/strong&gt;. Je wilt actief aan de slag
   gaan en op links klikken. Dat geeft je het idee dat je
   productief bezig bent.  &lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;Internet geeft een enorme keus&lt;/em&gt;. Elke pagina moet met honderden
+  &lt;li&gt;&lt;strong&gt;Internet geeft een enorme keus&lt;/strong&gt;. Elke pagina moet met honderden
   of miljoenen andere pagina’s concurreren om jouw aandacht.  &lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;De moderne mens heeft weinig tijd&lt;/em&gt;. Als je het druk hebt, wil je
+  &lt;li&gt;&lt;strong&gt;De moderne mens heeft weinig tijd&lt;/strong&gt;. Als je het druk hebt, wil je
   geen enorme lappen tekst lezen.  &lt;/li&gt;
 &lt;/ol&gt;
 
