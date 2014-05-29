@@ -4,13 +4,30 @@
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http://webenco.github.io/feed.xml" />
 <link rel="alternate" type="text/html" href="http://webenco.github.io/" />
-<updated>2014-05-26T07:11:48-04:00</updated>
+<updated>2014-05-29T07:58:19-04:00</updated>
 <id>http://webenco.github.io/</id>
 <author>
   <name>Web en co</name>
   <uri>http://webenco.github.io/</uri>
   <email>webenco.github@gmail.com</email>
 </author>
+
+
+<entry>
+  <title type="html"><![CDATA[Signaalwoorden]]></title>
+  <link rel="alternate" type="text/html" href="http://webenco.github.io/signaalwoorden/"/>
+  <id>http://webenco.github.io/signaalwoorden</id>
+  <published>2014-05-29T00:00:00-04:00</published>
+  <updated>2014-05-29T00:00:00-04:00</updated>
+  <author>
+    <name>Web en co</name>
+    <uri>http://webenco.github.io</uri>
+    <email>webenco.github@gmail.com</email>
+  </author>
+  <content type="html">
+
+  &lt;p&gt;&lt;a href=&quot;http://webenco.github.io/signaalwoorden/&quot;&gt;Signaalwoorden&lt;/a&gt; was originally published by Web en co at &lt;a href=&quot;http://webenco.github.io&quot;&gt;Web en co&lt;/a&gt; on May 29, 2014.&lt;/p&gt;</content>
+</entry>
 
 
 <entry>
@@ -34,21 +51,23 @@ verschrikkelijk. Ik kreeg ze er maar moeilijk in.&lt;/p&gt;
 &lt;p&gt;Ook bij recepten en een boodschappenlijst is het handig om met
 opsommingen te werken: je blijft anders zoeken waar je gebleven was.&lt;/p&gt;
 
-&lt;p&gt;Vandaag ga ik het hebben over opsommingen in webteksten.&lt;/p&gt;
-
-&lt;h2 id=&quot;waarom-gebruik-je-opsommingen&quot;&gt;Waarom gebruik je opsommingen?&lt;/h2&gt;
-&lt;p&gt;Ten eerste gebruik je opsommingen omdat ze extra aandacht trekken. Ze geven structuur aan teksten en maken ze makkelijker leesbaar. &lt;/p&gt;
+&lt;p&gt;Vandaag ga ik het hebben over opsommingen in webteksten.
+&lt;br /&gt;
+##Waarom gebruik je opsommingen?
+Ten eerste gebruik je opsommingen omdat ze extra aandacht trekken. Ze geven structuur aan teksten en maken ze makkelijker leesbaar. &lt;/p&gt;
 
 &lt;p&gt;Ten tweede lijken opsommingen op een compacte samenvatting: ze komen direct tot de kern van de zaak.&lt;/p&gt;
 
 &lt;p&gt;Ten derde lezen opsommingen snel en zijn ze ordelijk: dus goed voor de scannende lezer.&lt;/p&gt;
 
-&lt;p&gt;Tot slot zijn opsommingen makkelijk te onthouden, zeker als het gaat om een verkopende tekst waarin je voordelen voor de lezer opsomt.&lt;/p&gt;
+&lt;p&gt;Tot slot zijn opsommingen makkelijk te onthouden, zeker als het gaat
+om een verkopende tekst waarin je voordelen voor de lezer opsomt.&lt;/p&gt;
 
-&lt;h2 id=&quot;opsommingen-de-regels&quot;&gt;Opsommingen: de regels&lt;/h2&gt;
-&lt;p&gt;Net als koppen en alinea’s gelden bij het gebruik van bullets of
+&lt;p&gt;&lt;b&gt;
+##Opsommingen: de regels
+Net als koppen en alinea’s gelden bij het gebruik van bullets of
 opsommingen regels, waarmee de scannende lezer een webtekst efficient
-kan lezen. Hier komen ze:&lt;/p&gt;
+kan lezen. Hier komen ze:&lt;/b&gt;&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;&lt;strong&gt;Beperk je tot maximaal 3 tot 5 punten&lt;/strong&gt;. Gebruik je meer dan dit,
@@ -60,8 +79,9 @@ opsommingen als belangrijk. Gebruik je echter te veel opsommingen, dan gaat dit 
 verloren. Denk aan het leren van rijtjes woorden!&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&quot;welke-informatie-zet-je-in-opsommingen&quot;&gt;Welke informatie zet je in opsommingen?&lt;/h2&gt;
-&lt;p&gt;In opsommingen kun je verschillende soorten informatie kwijt. In
+&lt;p&gt;&lt;br /&gt;
+##Welke informatie zet je in opsommingen?
+In opsommingen kun je verschillende soorten informatie kwijt. In
 webteksten ga je uit van de wensen en behoeften van de lezer. Kies
 daarom bij het gebruik van opsommingen dus voor:&lt;/p&gt;
 
@@ -73,8 +93,9 @@ of  &lt;/li&gt;
   &lt;li&gt;Resultaten&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&quot;bullets-of-cijfers&quot;&gt;Bullets of cijfers?&lt;/h2&gt;
-&lt;p&gt;Gebruik bullets als de volgorde van de opsomming niet belangrijk is. 
+&lt;p&gt;&lt;br /&gt;
+##Bullets of cijfers?
+Gebruik bullets als de volgorde van de opsomming niet belangrijk is. 
 Is de volgorde wel belangrijk? Gebruik dan cijfers.&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;br /&gt;
@@ -102,10 +123,10 @@ Reageren? Laat een comment achter!&lt;/p&gt;
 &lt;p&gt;Vandaag beantwoord ik drie vragen:&lt;br /&gt;
 1. Wat is de inhoud van een alinea? Wat staat er in?&lt;br /&gt;
 2. Wat zijn de  gouden regels bij het schrijven van alinea’s?&lt;br /&gt;
-3. Hoe kom je tot een goede alinea-indeling?&lt;/p&gt;
-
-&lt;h2 id=&quot;de-inhoud-van-alineas&quot;&gt;De inhoud van alinea’s&lt;/h2&gt;
-&lt;p&gt;Het belangrijkste onderdeel van een alinea is de kernzin. Deze geeft het antwoord op de vraag of subvraag die de alinea behandelt. De rest van de alinea bestaat uit zinnen die deze kernzin uitwerken. Zo kan de inhoud van deze zinnen bestaan uit:&lt;/p&gt;
+3. Hoe kom je tot een goede alinea-indeling?
+&lt;br /&gt;
+##De inhoud van alinea’s
+Het belangrijkste onderdeel van een alinea is de kernzin. Deze geeft het antwoord op de vraag of subvraag die de alinea behandelt. De rest van de alinea bestaat uit zinnen die deze kernzin uitwerken. Zo kan de inhoud van deze zinnen bestaan uit:&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;voorbeelden  &lt;/li&gt;
@@ -121,8 +142,9 @@ of  &lt;/li&gt;
 
 &lt;p&gt;&lt;em&gt;“Sporten is gezond (kernzin). Beweging helpt het voorkomen van hart- en vaatziekten (argument 1). Bovendien geeft sporten plezier en brengt het je in contact met andere mensen (argument 2). Ook heeft sport een positief effect op je geestelijke gezondheid  (argument 3).”&lt;/em&gt;&lt;/p&gt;
 
-&lt;h2 id=&quot;de-gouden-regels-van-alineas&quot;&gt;De gouden regels van alinea’s&lt;/h2&gt;
-&lt;p&gt;Hou je bij het schrijven van alinea’s aan deze gouden regels:&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;
+##De gouden regels van alinea’s
+Hou je bij het schrijven van alinea’s aan deze gouden regels:&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;&lt;strong&gt;Behandel 1 idee per alinea&lt;/strong&gt;.&lt;/li&gt;
@@ -143,11 +165,12 @@ prettigst. Korter mag altijd. &lt;/li&gt;
 fijn om terug te moeten lezen in je tekst. Vermijd daarom uitspraken als
  “Zoals eerder gezegd…” en dergelijke. Ze zijn lastig te scannen
 voor een lezer. Ook is het niet vanzelfsprekend dat iemand alle
-voorgaande tekst heeft gelezen. &lt;/li&gt;
+voorgaande tekst heeft gelezen.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&quot;hoe-kom-je-tot-een-goede-alinea-indeling&quot;&gt;Hoe kom je tot een goede alinea-indeling?&lt;/h2&gt;
-&lt;p&gt;Bedenk welke vragen en subvragen je wilt beantwoorden. Werk de
+&lt;p&gt;&lt;br /&gt;
+##Hoe kom je tot een goede alinea-indeling?
+Bedenk welke vragen en subvragen je wilt beantwoorden. Werk de
 antwoorden op deze vragen uit. Ieder antwoord vormt een nieuwe
 alinea. Als een antwoord meer dan een alinea bevat, dan kun je deze
 over meerdere alinea’s spreiden. Zorg er wel voor dat de grens van de
@@ -180,18 +203,18 @@ met en zonder tussenkoppen&quot; title=&quot;Voorbeelden van webteksten met en
 zonder tussenkoppen&quot; /&gt;&lt;/a&gt;
 &lt;figcaption&gt;(Bron: Deltares en de Belastingdienst)&lt;/figcaption&gt;
 &lt;/figure&gt;
-&lt;p&gt;Ik durf te wedden dat je kiest voor de rechter tekst!&lt;/p&gt;
-
-&lt;h2 id=&quot;het-doel-van-koppen-en-tussenkoppen&quot;&gt;Het doel van koppen en tussenkoppen&lt;/h2&gt;
-&lt;p&gt;Het doel van koppen en tussenkoppen is het structureren van tekst en
+&lt;p&gt;Ik durf te wedden dat je kiest voor de rechter tekst!
+&lt;br /&gt;
+##Het doel van koppen en tussenkoppen
+Het doel van koppen en tussenkoppen is het structureren van tekst en
 het trekken van aandacht. Ze
 stellen lezers in staat om snel in te schatten waar de onderliggende
 tekst over gaat en of deze aansluit op hun informatiebehoefte. Kortom,
 ze sporen bezoekers aan om het onderliggende bericht wel of niet te
-lezen.&lt;/p&gt;
-
-&lt;h2 id=&quot;wat-zet-je-in-een-tussenkop&quot;&gt;Wat zet je in een (tussen)kop?&lt;/h2&gt;
-&lt;p&gt;Wat je in de kop zet, hangt af van de algehele strekking van de tekst of, in het geval van een tussenkop, de onderliggende alinea. 
+lezen.
+&lt;br /&gt;
+##Wat zet je in een (tussen)kop?
+Wat je in de kop zet, hangt af van de algehele strekking van de tekst of, in het geval van een tussenkop, de onderliggende alinea. 
 Volgens het &lt;a href=&quot;http://www.bol.com/nl/p/handboek-webredactie/1001004009905814&quot;&gt;
 “Handboek Webredactie (2010, 1e druk)”&lt;/a&gt; van Geert Poort en
 Corona de Wert verwoord een goede kop nieuws, een kernboodschap,
@@ -205,12 +228,12 @@ HBO-opleidingen” (www.loi.nl, 9 mei 2014)  &lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;Kop met nieuws&lt;/strong&gt;: “Chauffeurs in actie voor nieuwe
  CAO” (www.nu.nl, 5 mei 2014)  &lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;Kop met een kernboodschap/conclusie&lt;/strong&gt;: “Appel meest vervuilde
- fruitsoort (www.nu.nl, 4 mei 2014)&lt;/li&gt;
+ fruitsoort (www.nu.nl, 4 mei 2014)
+&lt;br /&gt;
+##Do’s and don’ts
+Wat moet je laten bij het schrijven van koppen en wat moet je vooral doen?
+Het schrijven van koppen is niet lastig, als je je houdt aan de volgende punten:&lt;/li&gt;
 &lt;/ul&gt;
-
-&lt;h2 id=&quot;dos-and-donts&quot;&gt;Do’s and don’ts&lt;/h2&gt;
-&lt;p&gt;Wat moet je laten bij het schrijven van koppen en wat moet je vooral doen?
-Het schrijven van koppen is niet lastig, als je je houdt aan de volgende punten:&lt;/p&gt;
 
 &lt;p&gt;Wat &lt;strong&gt;niet&lt;/strong&gt; te &lt;strong&gt;doen&lt;/strong&gt;:&lt;/p&gt;
 
@@ -278,15 +301,17 @@ koppen af: Vijvers schoon maken? Soorten coniferen? Niet echt wat ik zoek…&lt;
 met “Help!”. Een medeslachtoffer schrijft over hetzelfde probleem. En
 ja hoor, eindelijk heb ik een mogelijk verwijderingsmiddel gevonden.&lt;/p&gt;
 
-&lt;h2 id=&quot;webgebruikers-scannen&quot;&gt;Webgebruikers scannen&lt;/h2&gt;
-&lt;p&gt;Zoals dit praktijkvoorbeeld duidelijk maakt, leest het web niet
+&lt;p&gt;&lt;br /&gt;
+##Webgebruikers scannen
+Zoals dit praktijkvoorbeeld duidelijk maakt, leest het web niet
 hetzelfde als een goed boek. Zo lees ik niet alle informatie van A tot
 Z, maar hop of scan ik de ene na de andere link of webpagina af, op
 zoek naar specifieke informatie of tot het moment waarop iets mijn
 aandacht heeft gepakt.&lt;/p&gt;
 
-&lt;h2 id=&quot;waarom-scannen-we-webteksten&quot;&gt;Waarom scannen we webteksten?&lt;/h2&gt;
-&lt;p&gt;Ok, zul je zeggen. Leuk, maar waarom scannen webgebruikers dan?
+&lt;p&gt;&lt;br /&gt;
+##Waarom scannen we webteksten?
+Ok, zul je zeggen. Leuk, maar waarom scannen webgebruikers dan?
 Het artikel
 &lt;a href=&quot;http://www.nngroup.com/articles/why-web-users-scan-instead-reading/&quot;&gt;“Why web users scan instead of reading”&lt;/a&gt;
 van Jakob Nielsen geeft vier mogelijke redenen:&lt;/p&gt;
@@ -303,8 +328,9 @@ van Jakob Nielsen geeft vier mogelijke redenen:&lt;/p&gt;
   geen enorme lappen tekst lezen.  &lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;h2 id=&quot;maak-je-tekst-scanbaar-structureer&quot;&gt;Maak je tekst scanbaar: structureer!&lt;/h2&gt;
-&lt;p&gt;Kortom, wil je je webteksten makkelijk leesbaar maken voor webgebruikers? Structureer dan je teksten en maak ze scanbaar. 
+&lt;p&gt;&lt;br /&gt;
+##Maak je tekst scanbaar: structureer!
+Kortom, wil je je webteksten makkelijk leesbaar maken voor webgebruikers? Structureer dan je teksten en maak ze scanbaar. 
 Maak gebruik van koppen, tussenkoppen, witregels en alinea’s. Ook
 opsommingen, plaatjes, kernzinnen, signaalwoorden en het aanbieden van
 gelaagde informatie maken webteksten makkelijk leesbaar!&lt;/p&gt;

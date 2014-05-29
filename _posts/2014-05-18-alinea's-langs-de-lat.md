@@ -33,7 +33,7 @@ Om een eenvoudig voorbeeld te geven, is hier een kernzin met argumenten:
 
 _"Sporten is gezond (kernzin). Beweging helpt het voorkomen van hart- en vaatziekten (argument 1). Bovendien geeft sporten plezier en brengt het je in contact met andere mensen (argument 2). Ook heeft sport een positief effect op je geestelijke gezondheid  (argument 3)."_
 
-<br>
+
 ##De gouden regels van alinea’s
 Hou je bij het schrijven van alinea’s aan deze gouden regels:
 
@@ -57,7 +57,7 @@ Hou je bij het schrijven van alinea’s aan deze gouden regels:
   voor een lezer. Ook is het niet vanzelfsprekend dat iemand alle
   voorgaande tekst heeft gelezen.
   
-<br>
+
 ##Hoe kom je tot een goede alinea-indeling?
 Bedenk welke vragen en subvragen je wilt beantwoorden. Werk de
 antwoorden op deze vragen uit. Ieder antwoord vormt een nieuwe
