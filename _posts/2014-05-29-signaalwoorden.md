@@ -43,16 +43,17 @@ woord “maar”  een **tegenstelling** aankondigt en dat er na “dus” een
 Een conclusie en een tegenstelling zijn slechts twee mogelijke
 verbanden die je als lezer tegenkomt. Andere veel voorkomende
 verbanden zijn:  
-- **Opsomming**: ten eerste, ook, bovendien  
-- **Tijd**: eerst, daarna, vroeger  
-- **Oorzaak/gevolg**: daardoor, doordat  
-- **Voorbeeld of toelichting**: bijvoorbeeld, zoals  
-- **Voorwaarde**: indien, als, mits  
-- **Doel/middel**: door middel van, met als doel  
-- **Samenvatting**: kortom, al met al  
-- **Reden/verklaring**: want, omdat, namelijk  
-- **Vergelijking**: net als, zoals
-
+<ul>
+<li><strong>Opsomming</strong>: ten eerste, ook, bovendien</li> 
+<li><strong>Tijd</strong>: eerst, daarna, vroeger</li>
+<li><strong>Oorzaak/gevolg</strong>: daardoor, doordat</li>
+<li><strong>Voorbeeld of toelichting</strong>: bijvoorbeeld, zoals</li> 
+<li><strong>Voorwaarde</strong>: indien, als, mits</li> 
+<li><strong>Doel/middel</strong>: door middel van, met als doel</li> 
+<li><strong>Samenvatting</strong>: kortom, al met al</li> 
+<li><strong>Reden/verklaring</strong>: want, omdat, namelijk</li> 
+<li><strong>Vergelijking</strong>: net als, zoals</li>
+</ul>
 
 
 ##Signaalwoorden in webteksten: conclusie
