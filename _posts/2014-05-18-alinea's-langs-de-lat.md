@@ -17,7 +17,7 @@ Vandaag beantwoord ik drie vragen:
 1. Wat is de inhoud van een alinea? Wat staat er in?  
 2. Wat zijn de  gouden regels bij het schrijven van alinea’s?  
 3. Hoe kom je tot een goede alinea-indeling?
-<br>
+
 ##De inhoud van alinea’s
 Het belangrijkste onderdeel van een alinea is de kernzin. Deze geeft het antwoord op de vraag of subvraag die de alinea behandelt. De rest van de alinea bestaat uit zinnen die deze kernzin uitwerken. Zo kan de inhoud van deze zinnen bestaan uit:
 
