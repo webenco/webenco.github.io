@@ -43,13 +43,16 @@ woord “maar”  een **tegenstelling** aankondigt en dat er na “dus” een
 Een conclusie en een tegenstelling zijn slechts twee mogelijke
 verbanden die je als lezer tegenkomt. Andere veel voorkomende
 verbanden zijn:  
-- **Beperk je tot maximaal 3 tot 5 punten**. Gebruik je meer dan dit,
-  dan kunnen lezers punten gemakkelijk overslaan.  
-- **Houdt elke zin op 1 regel**. Zet je alle punten namelijk achter
-  elkaar in een lange zin, dan leest dit een stuk lastiger.  
-- **Gebruik niet te veel opsommingen in je tekst**. Lezers ervaren
-  opsommingen als belangrijk. Gebruik je echter te veel opsommingen, dan gaat dit effect
-  verloren. Denk aan het leren van rijtjes woorden!
+- **Opsomming**: ten eerste, ook, bovendien  
+- **Tijd**: eerst, daarna, vroeger  
+- **Oorzaak/gevolg**: daardoor, doordat  
+- **Voorbeeld of toelichting**: bijvoorbeeld, zoals  
+- **Voorwaarde**: indien, als, mits  
+- **Doel/middel**: door middel van, met als doel  
+- **Samenvatting**: kortom, al met al  
+- **Reden/verklaring**: want, omdat, namelijk  
+- **Vergelijking**: net als, zoals
+
 
 
 ##Signaalwoorden in webteksten: conclusie
