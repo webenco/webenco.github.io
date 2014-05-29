@@ -1,8 +1,7 @@
 ---
 layout: post
 title: "Signaalwoorden"
-description: "Signaalwoorden maken een tekst beter scanbaar voor
-lezers.  Hoe? Dat vertel ik in deze blogpost.
+description: "Signaalwoorden maken een tekst beter scanbaar voor lezers. Hoe? Dat vertel ik in deze blogpost.
 modified: 2014-05-29 13:51:18 +0200
 tags: [webteksten schrijven, structureren tekst, signaalwoorden]
 image:
@@ -12,8 +11,7 @@ image:
 comments: 
 share: 
 ---
-<img src="../images/signaalwoorden.jpg" alt="Tekst met signaalwoord"
-class="floatright" title="Tekst met signaalwoord">
+<img src="../images/signaalwoorden.jpg" alt="Tekst met signaalwoord" class="floatright" title="Tekst met signaalwoord">
 Na de zomervakanties kwamen mijn zus en ik terug op de basisschool en mochten wij samen met onze medeleerlingen onze belevenissen
 opschrijven. Misschien herken je het nog van jezelf, je klasgenoten van toen of van je eigen kinderen: elk verhaal bevatte een behoorlijk
 “en toen” gehalte.
