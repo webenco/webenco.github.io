@@ -38,12 +38,12 @@ conclusie of een voordeel voor de lezer.
 
 Voorbeelden:
 
--  **Kop met een voordeel**: "Gratis Samsung Galaxy Tab3 bij alle erkende
-   HBO-opleidingen" (www.loi.nl, 9 mei 2014)  
-- **Kop met nieuws**: "Chauffeurs in actie voor nieuwe
- CAO" (www.nu.nl, 5 mei 2014)  
--  **Kop met een kernboodschap/conclusie**: "Appel meest vervuilde
- fruitsoort (www.nu.nl, 4 mei 2014)
+-  **Kop met een voordeel**:  
+"Gratis Samsung Galaxy Tab3 bij alle erkende HBO-opleidingen" (www.loi.nl, 9 mei 2014)  
+- **Kop met nieuws**:  
+"Chauffeurs in actie voor nieuwe CAO" (www.nu.nl, 5 mei 2014)  
+-  **Kop met een kernboodschap/conclusie**:  
+"Appel meest vervuilde fruitsoort (www.nu.nl, 4 mei 2014)
 
 ##Do’s and don’ts
 Wat moet je laten bij het schrijven van koppen en wat moet je vooral doen?
@@ -51,7 +51,8 @@ Het schrijven van koppen is niet lastig, als je je houdt aan de volgende punten:
 
 Wat **niet** te **doen**:
 
-1.	**Jargon of moeilijke woorden gebruiken**. Niet iedere bezoeker is wellicht bekend met de gebruikte woorden. 
+1.	**Jargon of moeilijke woorden gebruiken**. Niet iedere bezoeker is
+wellicht bekend met de gebruikte woorden.   
 2.**Leestekens gebruiken**. Uitzondering hierop zijn het vraagteken of dubbele punten met aanhalingstekens (citaat).
 3.	**Vaak uitroeptekens gebruiken**. Uitroeptekens komen schreeuwerig over. 
 4.	**Een kop maken die uit meer dan 1 regel bestaat**. Probeer het bij 2 tot 5 woorden te houden. 
