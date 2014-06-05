@@ -55,7 +55,7 @@ Wat **niet** te **doen**:
 
 1.	**Jargon of moeilijke woorden gebruiken**. Niet iedere bezoeker is
 wellicht bekend met de gebruikte woorden.  
-2.**Leestekens gebruiken**. Uitzondering hierop zijn het vraagteken of dubbele punten met aanhalingstekens (citaat).
+2. **Leestekens gebruiken**. Uitzondering hierop zijn het vraagteken of dubbele punten met aanhalingstekens (citaat).
 3.	**Vaak uitroeptekens gebruiken**. Uitroeptekens komen schreeuwerig over. 
 4.	**Een kop maken die uit meer dan 1 regel bestaat**. Probeer het bij 2 tot 5 woorden te houden. 
 5.	**Creatieve koppen schrijven**. Een kop moet duidelijk maken waar de onderliggende alinea over gaat. Houd de kop daarom zo informatief en eenduidig mogelijk. 
