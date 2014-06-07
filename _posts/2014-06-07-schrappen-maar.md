@@ -11,11 +11,8 @@ image:
 comments: 
 share: 
 ---
-<figure>
-<a href="../images/schrappen.png" ><img src="../images/schrappen.png" alt="Wordcloud met de woorden
-schrappen, Elsschotproef en Kill your darlings"></a>
-<figcaption>(Bron: www.jasondavies.com/wrdcloud)</figcaption>
-</figure>
+<img src="../images/schrappen.png" alt="Wordcloud met de woorden
+schrappen, Elsschotproef en Kill your darlings" title= "Bron: www.jasondavies.com/wrdcloud">
 
 Volgende week moet ik een betoog inleveren van maximaal 350 woorden. Gisteren had ik twee uur vrij en dus ging ik vol enthousiasme
 aan de slag. Na ongeveer anderhalf uur was ik klaar en besloot ik de

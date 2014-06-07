@@ -4,7 +4,7 @@
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http://webenco.github.io/feed.xml" />
 <link rel="alternate" type="text/html" href="http://webenco.github.io/" />
-<updated>2014-06-07T11:09:58-04:00</updated>
+<updated>2014-06-07T11:14:46-04:00</updated>
 <id>http://webenco.github.io/</id>
 <author>
   <name>Web en co</name>
@@ -25,7 +25,11 @@
     <uri>http://webenco.github.io</uri>
     <email>webenco.github@gmail.com</email>
   </author>
-  <content type="html">&lt;p&gt;&lt;img src=&quot;../images/schrappen.png&quot; alt=&quot;Wordcloud met de woorden schrappen, Elsschotproef en Kill your darlings&quot; /&gt;&lt;/p&gt;
+  <content type="html">&lt;figure&gt;
+&lt;a href=&quot;../images/schrappen.png&quot;&gt;&lt;img src=&quot;../images/schrappen.png&quot; alt=&quot;Wordcloud met de woorden
+schrappen, Elsschotproef en Kill your darlings&quot; /&gt;&lt;/a&gt;
+&lt;figcaption&gt;(Bron: www.jasondavies.com/wrdcloud)&lt;/figcaption&gt;
+&lt;/figure&gt;
 
 &lt;p&gt;Volgende week moet ik een betoog inleveren van maximaal 350 woorden. Gisteren had ik twee uur vrij en dus ging ik vol enthousiasme
 aan de slag. Na ongeveer anderhalf uur was ik klaar en besloot ik de
