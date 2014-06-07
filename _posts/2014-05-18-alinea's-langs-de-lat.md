@@ -38,7 +38,7 @@ _"Sporten is gezond (kernzin). Beweging helpt het voorkomen van hart- en vaatzie
 Hou je bij het schrijven van alinea’s aan deze gouden regels:
 
 - **Behandel 1 idee per alinea**.
-- **Gebruik witregels tussen verschillende alinea's**.
+- **Gebruik witregels tussen alinea's**.
 - **Schrijf maximaal 5-7 regels per alinea**.
 - **De eerste zin is de kernzin**. Waarom eerste zin? Deze bevat de
   belangrijkste informatie. Hoe eerder de lezer deze ziet, hoe sneller
