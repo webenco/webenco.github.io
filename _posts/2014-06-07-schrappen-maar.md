@@ -31,12 +31,10 @@ Houdt bij het schrappen van tekst, rekening met de volgende principes:
 kom direct tot de kern. Weid niet uit.</li>
 <li><strong>Schrap overbodige bijvoeglijk naamwoorden</strong>. Gebruik alleen die
 bijvoeglijk naamwoorden die daadwerkelijk iets toevoegen.</li>
-Voorbeeld:<br>
-“Zij had prachtige, gouden haren.” “Prachtig” is hier subjectief en voegt dus niks toe. 
+Voorbeeld: “Zij had prachtige, gouden haren.” “Prachtig” is hier subjectief en voegt dus niks toe. 
 <li><strong>Kill your darlings</strong>. Soms moet je zinnen of zinsconstructies waar je heel trots op bent, laten vallen.</li>
 <li><strong>Schrap modale hulpwerkwoorden als zullen, willen, zouden, gaan en kunnen</strong>. Ze maken je tekst twijfelachtig en zijn vaak overbodig.</li>
-Vergelijk:<br>
-“In mei zullen we een strandfeest gaan houden” met “In mei houden we een strandfeest”. 
+Vergelijk “In mei zullen we een strandfeest gaan houden” met “In mei houden we een strandfeest”. 
 De kern is hetzelfde, maar stelliger.
 <li><strong>Schrap modale woorden</strong>. Dit zijn woorden als “misschien”, “in principe”, “eventueel”. Net als de modale hulpwerkwoorden maken ze je
 tekst zwakker.</li>
@@ -51,9 +49,8 @@ de werkwoorden “worden” en “zijn” achterwege: ze maken een tekst afstand
 “derhalve” of “over, voor” in plaats van “met betrekking tot”.</li>
 <li><strong>Vermijd de naamwoordstijl</strong>. Gebruik werkwoorden in plaats van
 zelfstandige naamwoorden die daarvan afgeleid zijn.</li>
-Vergelijk:<br>
-“De rector levert een inspanning om tot verbetering van het schoolbeleid te komen.”
-“De rector spant zich in om het schoolbeleid te verbeteren.”
+Vergelijk “De rector levert een inspanning om tot verbetering van het
+schoolbeleid te komen” met “De rector spant zich in om het schoolbeleid te verbeteren”
 <li><strong>Schrijf zo concreet en specifiek mogelijk</strong>. Maak de lezer direct
   duidelijk wat je bedoelt. Wat bedoel je met “een heleboel”? Zijn dit
   er honderd? Duizend? En om voor auto gaat het? Een personenauto? Een
