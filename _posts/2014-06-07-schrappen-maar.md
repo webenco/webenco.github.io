@@ -67,9 +67,8 @@ href="http://www.bol.com/nl/p/handboek-webredactie/1001004009905814">Handboek
 webredactie</a>.  Zaltbommel:Thema.<br>
 Wil Michels (2009).<a
 href="http://www.bol.com/nl/p/essentie-van-communicatie/1001004006475012/">Essentie
-van communicatie</a>. Groningen/Houten: Noordhoff Uitgevers.<br>
-<a
-href="http://taaladvies.net/taal/advies/vraag/565/naamwoordstijl/">Taaladvies.net</a>
+van communicatie</a>. Houten: Noordhoff Uitgevers.<br>
+<a href="http://taaladvies.net/taal/advies/vraag/565/naamwoordstijl/">Taaladvies.net</a>
 </small>
 
 
