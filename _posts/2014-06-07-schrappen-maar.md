@@ -13,7 +13,9 @@ share:
 ---
 
 Volgende week moet ik een betoog inleveren van maximaal 350 woorden. Gisteren had ik twee uur vrij en dus ging ik vol enthousiasme
-aan de slag. Na ongeveer anderhalf uur was ik klaar en besloot ik de woordenteller los te laten op mijn tekst.  
+aan de slag. Na ongeveer anderhalf uur was ik klaar en besloot ik de
+woordenteller los te laten op mijn tekst.
+
 ...Oeps, 425 woorden! Hoe los ik dit op?! 
 
 Wie schrijft, heeft wellicht gehoord van de “Elsschotproef”, “Kill your darlings” of “schrijven is schrappen”. Alle drie hebben ze maar
