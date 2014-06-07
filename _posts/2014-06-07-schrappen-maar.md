@@ -33,7 +33,7 @@ bijvoeglijk naamwoorden die daadwerkelijk iets toevoegen.</li>
 Voorbeeld: “Zij had prachtige, gouden haren.” “Prachtig” is hier subjectief en voegt dus niks toe. 
 
 <li><strong>Kill your darlings</strong>. Soms moet je zinnen of zinsconstructies waar je heel trots op bent, laten vallen.</li>
-<.i><strong>Schrap modale hulpwerkwoorden als zullen, willen, zouden, gaan en kunnen</strong>. Ze maken je tekst twijfelachtig en zijn vaak overbodig.</li>
+<li><strong>Schrap modale hulpwerkwoorden als zullen, willen, zouden, gaan en kunnen</strong>. Ze maken je tekst twijfelachtig en zijn vaak overbodig.</li>
 
 Vergelijk: 
 “In mei zullen we een strandfeest gaan houden” met “In mei houden we een strandfeest”. 
@@ -47,11 +47,11 @@ omschrijving van de vakterm. Schrijf afkortingen voluit. Uitzonderingen zijn afk
 <li><strong>Gebruik geen dubbele ontkenningen</strong>. Ze maken de tekst voor de lezer verwarrend.</li>
 <li><strong>Vermijd tangconstructies</strong>. Bij tangconstructies
 zit een grote afstand tussen zinsdelen die eigenlijk bij elkaar horen.</li>
-<li><strong>Schrijf actief</strong>. Laat zinnen met vervoegingen van de werkwoorden
-“worden” en “zijn” achterwege: ze maken een tekst afstandelijk minder direct.</li>
-</li><strong>Vermijd ambtelijk taalgebruik</strong>. Schrijf “daarom” in plaats van
+<li><strong>Schrijf actief</strong>. Laat zinnen met vervoegingen van
+de werkwoorden “worden” en “zijn” achterwege: ze maken een tekst afstandelijk minder direct.</li>
+<li><strong>Vermijd ambtelijk taalgebruik</strong>. Schrijf “daarom” in plaats van
 “derhalve” of “over, voor” in plaats van “met betrekking tot”.</li>
-</li><strong>Vermijd de naamwoordstijl</strong>. Gebruik werkwoorden in plaats van
+<li><strong>Vermijd de naamwoordstijl</strong>. Gebruik werkwoorden in plaats van
 zelfstandige naamwoorden die daarvan afgeleid zijn.</li>
 <br>
 Vergelijk:  
