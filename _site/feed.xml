@@ -4,7 +4,7 @@
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http://webenco.github.io/feed.xml" />
 <link rel="alternate" type="text/html" href="http://webenco.github.io/" />
-<updated>2014-06-07T10:49:13-04:00</updated>
+<updated>2014-06-07T11:09:58-04:00</updated>
 <id>http://webenco.github.io/</id>
 <author>
   <name>Web en co</name>
@@ -25,7 +25,9 @@
     <uri>http://webenco.github.io</uri>
     <email>webenco.github@gmail.com</email>
   </author>
-  <content type="html">&lt;p&gt;Volgende week moet ik een betoog inleveren van maximaal 350 woorden. Gisteren had ik twee uur vrij en dus ging ik vol enthousiasme
+  <content type="html">&lt;p&gt;&lt;img src=&quot;../images/schrappen.png&quot; alt=&quot;Wordcloud met de woorden schrappen, Elsschotproef en Kill your darlings&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Volgende week moet ik een betoog inleveren van maximaal 350 woorden. Gisteren had ik twee uur vrij en dus ging ik vol enthousiasme
 aan de slag. Na ongeveer anderhalf uur was ik klaar en besloot ik de
 woordenteller los te laten op mijn tekst.&lt;/p&gt;
 
@@ -47,7 +49,7 @@ bijvoeglijk naamwoorden die daadwerkelijk iets toevoegen.&lt;/li&gt;
 Voorbeeld: “Zij had prachtige, gouden haren.” “Prachtig” is hier subjectief en voegt dus niks toe. 
 &lt;li&gt;&lt;strong&gt;Kill your darlings&lt;/strong&gt;. Soms moet je zinnen of zinsconstructies waar je heel trots op bent, laten vallen.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Schrap modale hulpwerkwoorden als zullen, willen, zouden, gaan en kunnen&lt;/strong&gt;. Ze maken je tekst twijfelachtig en zijn vaak overbodig.&lt;/li&gt;
-Vergelijk “In mei zullen we een strandfeest gaan houden” met “In mei houden we een strandfeest”. 
+Vergelijk “In mei zullen we een strandfeest gaan houden” met “In mei houden we een strandfeest.”
 De kern is hetzelfde, maar stelliger.
 &lt;li&gt;&lt;strong&gt;Schrap modale woorden&lt;/strong&gt;. Dit zijn woorden als “misschien”, “in principe”, “eventueel”. Net als de modale hulpwerkwoorden maken ze je
 tekst zwakker.&lt;/li&gt;
@@ -63,7 +65,7 @@ de werkwoorden “worden” en “zijn” achterwege: ze maken een tekst afstand
 &lt;li&gt;&lt;strong&gt;Vermijd de naamwoordstijl&lt;/strong&gt;. Gebruik werkwoorden in plaats van
 zelfstandige naamwoorden die daarvan afgeleid zijn.&lt;/li&gt;
 Vergelijk “De rector levert een inspanning om tot verbetering van het
-schoolbeleid te komen” met “De rector spant zich in om het schoolbeleid te verbeteren”
+schoolbeleid te komen” met “De rector spant zich in om het schoolbeleid te verbeteren.”
 &lt;li&gt;&lt;strong&gt;Schrijf zo concreet en specifiek mogelijk&lt;/strong&gt;. Maak de lezer direct
   duidelijk wat je bedoelt. Wat bedoel je met “een heleboel”? Zijn dit
   er honderd? Duizend? En om voor auto gaat het? Een personenauto? Een
@@ -107,7 +109,7 @@ van communicatie&lt;/a&gt;. Houten: Noordhoff Uitgevers.&lt;br /&gt;
 opschrijven. Misschien herken je het nog van jezelf, je klasgenoten van toen of van je eigen kinderen: elk verhaal bevatte een behoorlijk
 “en toen” gehalte.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;../images/signaalwoorden.jpg&quot; alt=&quot;Tekst met signaalwoord&quot; class=&quot;floatright&quot; title=&quot;Tekst met signaalwoord&quot; /&gt;
+&lt;p&gt;&lt;img src=&quot;../images/signaalwoorden.jpg&quot; alt=&quot;Tekst met signaalwoord&quot; class=&quot;floatright&quot; /&gt;
 Met deze woorden gaven wij onze juf of meester het signaal dat de door
 ons beschreven gebeurtenissen zich in een chronologische volgorde
 afspeelden.&lt;/p&gt;
@@ -182,7 +184,7 @@ Laat je reactie achter!
   <content type="html">&lt;p&gt;Het leren van eindeloze rijtjes woorden vond ik vroeger
 verschrikkelijk. Ik kreeg ze er maar moeilijk in.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;../images/lijstje.jpg&quot; alt=&quot;Memo met opsomming&quot; class=&quot;floatright&quot; title=&quot;Memo met opsomming&quot; /&gt;
+&lt;p&gt;&lt;img src=&quot;../images/lijstje.jpg&quot; alt=&quot;Memo met opsomming&quot; class=&quot;floatright&quot; /&gt;
 Bij het lezen van teksten en het onthouden ervan, had ik juist weer
 geen moeite met opsommingen. Ik vond ze juist fijn, omdat ik zo
 sneller kon leren: ze ordenden de tekst.&lt;/p&gt;
@@ -333,8 +335,7 @@ Heb je vragen of opmerkingen? Laat ze achter in de comments!&lt;/p&gt;
 fijner?&lt;/p&gt;
 &lt;figure&gt;
 &lt;a href=&quot;../images/koppen.jpg&quot;&gt;&lt;img src=&quot;../thumbnails/koppen_resized.jpg&quot; alt=&quot;Voorbeelden van webteksten
-met en zonder tussenkoppen&quot; title=&quot;Voorbeelden van webteksten met en
-zonder tussenkoppen&quot; /&gt;&lt;/a&gt;
+met en zonder tussenkoppen&quot; title=&quot;Klik op de afbeelding voor een vergroting. &quot; /&gt;&lt;/a&gt;
 &lt;figcaption&gt;(Bron: Deltares en de Belastingdienst)&lt;/figcaption&gt;
 &lt;/figure&gt;
 &lt;p&gt;Ik durf te wedden dat je kiest voor de rechter tekst!&lt;/p&gt;
