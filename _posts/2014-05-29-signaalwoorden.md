@@ -16,7 +16,7 @@ Na de zomervakanties kwamen mijn zus en ik terug op de basisschool en mochten wi
 opschrijven. Misschien herken je het nog van jezelf, je klasgenoten van toen of van je eigen kinderen: elk verhaal bevatte een behoorlijk
 “en toen” gehalte.
 
-<img src="../images/signaalwoorden.jpg" alt="Tekst met signaalwoord" class="floatright" title="Tekst met signaalwoord">
+<img src="../images/signaalwoorden.jpg" alt="Tekst met signaalwoord" class="floatright">
 Met deze woorden gaven wij onze juf of meester het signaal dat de door
 ons beschreven gebeurtenissen zich in een chronologische volgorde
 afspeelden.
