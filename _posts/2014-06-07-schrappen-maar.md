@@ -24,50 +24,44 @@ Daarover gaat deze post.
 
 ##Het schrappen van tekst: tips
 Houdt bij het schrappen van tekst, rekening met de volgende principes:  
-- **Hou de centrale boodschap in het oog**.  Schrijf kort en bondig en
-kom direct tot de kern. Weid niet uit.   
-- **Schrap overbodige bijvoeglijk naamwoorden**. Gebruik alleen die
-bijvoeglijk naamwoorden die daadwerkelijk iets toevoegen.   
+<ul>
+<li><strong>Hou de centrale boodschap in het oog</strong>. Schrijf kort en bondig en
+kom direct tot de kern. Weid niet uit.</li>
+<li><strong>Schrap overbodige bijvoeglijk naamwoorden</strong>. Gebruik alleen die
+bijvoeglijk naamwoorden die daadwerkelijk iets toevoegen.</li>
 
 Voorbeeld: “Zij had prachtige, gouden haren.” “Prachtig” is hier subjectief en voegt dus niks toe. 
 
-- **Kill your darlings**. Soms moet je zinnen of zinsconstructies waar je heel trots op bent, laten vallen.  
-- **Schrap modale hulpwerkwoorden als zullen, willen, zouden, gaan en
-kunnen**. Ze maken je tekst twijfelachtig en zijn vaak overbodig.   
+<li><strong>Kill your darlings</strong>. Soms moet je zinnen of zinsconstructies waar je heel trots op bent, laten vallen.</li>
+<.i><strong>Schrap modale hulpwerkwoorden als zullen, willen, zouden, gaan en kunnen</strong>. Ze maken je tekst twijfelachtig en zijn vaak overbodig.</li>
 
 Vergelijk: 
 “In mei zullen we een strandfeest gaan houden” met “In mei houden we een strandfeest”. 
 
 De kern is hetzelfde, maar stelliger.  
 <br>
-- **Schrap modale woorden**. Dit zijn woorden als “misschien”, “in
-principe”, “eventueel”. Net als de modale hulpwerkwoorden maken ze je
-tekst zwakker.  
-- **Vermijd jargon en afkortingen**. Ga er altijd van uit dan lezers
-niet bekend zijn met de vaktermen of de afkortingen. Geef dus een
-omschrijving van de vakterm. Schrijf afkortingen
-voluit. Uitzonderingen zijn afkortingen die je ook als afkorting
-uitspreekt, zoals “PvdA”, “HEMA”.   
-- **Gebruik geen dubbele ontkenningen**. Ze maken de tekst voor de
-lezer verwarrend.   
-- **Vermijd tangconstructies**. Bij tangconstructies zit een grote
-afstand tussen zinsdelen die eigenlijk bij elkaar horen.   
-- **Schrijf actief**. Laat zinnen met vervoegingen van de werkwoorden
-“worden” en “zijn” achterwege: ze maken een tekst afstandelijk minder
-direct.   
-- **Vermijd ambtelijk taalgebruik**. Schrijf “daarom” in plaats van
-“derhalve” of “over, voor” in plaats van “met betrekking tot”.   
-- **Vermijd de naamwoordstijl**. Gebruik werkwoorden in plaats van
-zelfstandige naamwoorden die daarvan afgeleid zijn.   
+<li><strong>Schrap modale woorden</strong>. Dit zijn woorden als “misschien”, “in principe”, “eventueel”. Net als de modale hulpwerkwoorden maken ze je
+tekst zwakker.</li>
+<li><strong>Vermijd jargon en afkortingen</strong>. Ga er altijd van uit dan lezers niet bekend zijn met de vaktermen of de afkortingen. Geef dus een
+omschrijving van de vakterm. Schrijf afkortingen voluit. Uitzonderingen zijn afkortingen die je ook als afkorting uitspreekt, zoals “PvdA”, “HEMA”.</li>
+<li><strong>Gebruik geen dubbele ontkenningen</strong>. Ze maken de tekst voor de lezer verwarrend.</li>
+<li><strong>Vermijd tangconstructies</strong>. Bij tangconstructies
+zit een grote afstand tussen zinsdelen die eigenlijk bij elkaar horen.</li>
+<li><strong>Schrijf actief</strong>. Laat zinnen met vervoegingen van de werkwoorden
+“worden” en “zijn” achterwege: ze maken een tekst afstandelijk minder direct.</li>
+</li><strong>Vermijd ambtelijk taalgebruik</strong>. Schrijf “daarom” in plaats van
+“derhalve” of “over, voor” in plaats van “met betrekking tot”.</li>
+</li><strong>Vermijd de naamwoordstijl</strong>. Gebruik werkwoorden in plaats van
+zelfstandige naamwoorden die daarvan afgeleid zijn.</li>
 <br>
 Vergelijk:  
 “_De rector levert een inspanning om tot verbetering van het schoolbeleid te komen_.”  
 “_De rector spant zich in om het schoolbeleid te verbeteren_.”
 <br>
-- **Schrijf zo concreet en specifiek mogelijk**. Maak de lezer direct
+<li><strong>Schrijf zo concreet en specifiek mogelijk</strong>. Maak de lezer direct
   duidelijk wat je bedoelt. Wat bedoel je met “een heleboel”? Zijn dit
   er honderd? Duizend? En om voor auto gaat het? Een personenauto? Een
-  sportwagen?
+  sportwagen?</li>
   
 <br><br>
 Hoe kijk jij aan tegen het schrappen van tekst? Schieten jou nog andere tips te binnen? Laat het me weten!
