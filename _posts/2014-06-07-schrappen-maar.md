@@ -22,7 +22,7 @@ woordenteller los te laten op mijn tekst.
 
 Wie schrijft, heeft wellicht gehoord van de “Elsschotproef”, “Kill
 your darlings” of “schrijven is schrappen”. Alle drie hebben ze
-hetzelfde doel: het leesbaarder maken van je tekst. 
+hetzelfde doel: schrappen in de tekst om deze leesbaarder te maken. 
 
 Hoe doe je dat dan, dat schrappen? Waar let je op? 
 Daarover gaat deze post.
