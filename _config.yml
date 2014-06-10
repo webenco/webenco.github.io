@@ -1,6 +1,6 @@
 title:            Web en co
 description:     
-logo:             yosemite.jpg
+logo:             site-logo.png
 disqus_shortname: 
 search:           true
 # Change url to your domain. Leave localhost server or blank when working locally.
@@ -9,7 +9,7 @@ url:              http://webenco.github.io
 # Owner/author information
 owner:
   name:           Web en co
-  avatar:         tabithapost.jpg
+  avatar:         bio-photo.jpg
   email:          webenco.github@gmail.com
   # Social networking links used in footer. Update and remove as you like.
   twitter:        
