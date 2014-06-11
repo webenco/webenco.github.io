@@ -5,8 +5,8 @@ title: Over Web en co
 tags: [Web en co, missie, doel]
 modified: 2013-09-13
 image:
-  feature: yosemite-copy.jpg
-  credit: 
+  feature: images/yosemite-copy.jpg
+  credit: Tabitha Post
   creditlink: 
 ---
 
