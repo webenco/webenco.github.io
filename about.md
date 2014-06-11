@@ -5,9 +5,9 @@ title: Over Web en co
 tags: [Web en co, missie, doel]
 modified: 2013-09-13
 image:
-  feature: so-simple-sample-image-4.jpg
-  credit: Michael Rose
-  creditlink: http://mademistakes.com
+  feature: yosemite-copy.jpg
+  credit: 
+  creditlink: 
 ---
 
 Hoe schrijf ik goede teksten voor mijn website? Wat kan ik doen om
