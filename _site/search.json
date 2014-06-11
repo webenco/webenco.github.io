@@ -3,7 +3,7 @@
 		{
 		  "title"      : "Schrappen maar",
 		  "category"   : "",
-		  "url"        : "http://localhost:4000/schrappen-maar/",
+		  "url"        : "http://webenco.github.io/schrappen-maar/",
 		  "date"       : "2014-06-07 00:00:00 -0400",
 		  "shortdate"  : "June 07, 2014"
 		} ,
@@ -11,7 +11,7 @@
 		{
 		  "title"      : "Signaalwoorden",
 		  "category"   : "",
-		  "url"        : "http://localhost:4000/signaalwoorden/",
+		  "url"        : "http://webenco.github.io/signaalwoorden/",
 		  "date"       : "2014-05-29 00:00:00 -0400",
 		  "shortdate"  : "May 29, 2014"
 		} ,
@@ -19,7 +19,7 @@
 		{
 		  "title"      : "Rijtjes, rijtjes, rijtjes, ...",
 		  "category"   : "",
-		  "url"        : "http://localhost:4000/rijtjes-rijtjes-rijtjes-dot-dot-dot/",
+		  "url"        : "http://webenco.github.io/rijtjes-rijtjes-rijtjes-dot-dot-dot/",
 		  "date"       : "2014-05-22 00:00:00 -0400",
 		  "shortdate"  : "May 22, 2014"
 		} ,
@@ -27,7 +27,7 @@
 		{
 		  "title"      : "Alinea&#39;s langs de lat",
 		  "category"   : "",
-		  "url"        : "http://localhost:4000/alinea%27s-langs-de-lat/",
+		  "url"        : "http://webenco.github.io/alinea%27s-langs-de-lat/",
 		  "date"       : "2014-05-18 00:00:00 -0400",
 		  "shortdate"  : "May 18, 2014"
 		} ,
@@ -35,7 +35,7 @@
 		{
 		  "title"      : "Kopjes geven",
 		  "category"   : "",
-		  "url"        : "http://localhost:4000/kopjes-geven/",
+		  "url"        : "http://webenco.github.io/kopjes-geven/",
 		  "date"       : "2014-05-10 00:00:00 -0400",
 		  "shortdate"  : "May 10, 2014"
 		} ,
@@ -43,7 +43,7 @@
 		{
 		  "title"      : "Niet lezen, maar scannen",
 		  "category"   : "",
-		  "url"        : "http://localhost:4000/niet-lezen-maar-scannen/",
+		  "url"        : "http://webenco.github.io/niet-lezen-maar-scannen/",
 		  "date"       : "2014-05-05 00:00:00 -0400",
 		  "shortdate"  : "May 05, 2014"
 		} 
